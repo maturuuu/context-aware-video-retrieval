@@ -1,12 +1,10 @@
 # context-aware-video-retrieval
 
-# Context-Aware Multimodal Video Retrieval System
-
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue)
 
 This repository contains the research, data, and code for the undergraduate thesis:
 
-**"A Context-Aware Multimodal Video Retrieval System for Enhancing Short-Form Video Annotation"**
+***"Comparing Modality Representation Schemes in Video Retrieval for More Context-Aware Auto-Annotation of Trending Short-Form Videos"***
 by Matthew Kristoffer Ong, Shanette Giane Presas, Sophia Althea Sarreal, and Jersey Jaclyn To of the Andrew L. Tan Data Science Institute, De La Salle University Manila.
 
 ---
