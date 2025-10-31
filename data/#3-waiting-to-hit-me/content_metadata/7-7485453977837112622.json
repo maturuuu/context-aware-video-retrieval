@@ -1,0 +1,174 @@
+{
+    "video_metadata": {
+        "id": 7485453977837112622,
+        "time_created": "2025-03-25T03:05:15",
+        "author_id": 6893651885108397062,
+        "description": "Sign up to donate blood! Permission slips in B15!! ⚕️⚡️ #hosa #blooddrive #bchs #americanredcross #donate #donateblood #box ",
+        "hashtags": [
+            "hosa",
+            "blooddrive",
+            "bchs",
+            "americanredcross",
+            "donate",
+            "donateblood",
+            "box"
+        ],
+        "mentions": null,
+        "music_id": 7485454125233081130,
+        "schedule_time": 0,
+        "location_created": "US",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 96,
+        "sharecount": 31,
+        "commentcount": 1,
+        "playcount": 3164,
+        "collectcount": 13,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "oh, are you waiting for that box to hit me?",
+                    "well i’m waiting for you to sign up to\ndonate blood",
+                    "at the BCHS HOSA Blood Drive on April 4th",
+                    "are you still waiting?"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Lip-sync",
+            "Lip-sync",
+            "Performance"
+        ],
+        "diversification_id": 10071,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7485453977837112622,
+        "filepath": null,
+        "duration": 10,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -35,
+        "volume_peak": 0.4217,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 1,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7485454125233081130,
+        "title": "original sound",
+        "author_name": "bchs.hosa",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 10.396688,
+            "preciseShootDuration": 10.396688,
+            "preciseAuditionDuration": 10.396688,
+            "preciseVideoDuration": 10.396688
+        }
+    },
+    "author_metadata": {
+        "id": 6893651885108397062,
+        "username": "bchs.hosa",
+        "name": "bchs.hosa",
+        "signature": "official TikTok for Buhach Colony High School's HOSA club!⚡️🩺 | IG: hosa.bchs",
+        "create_time": 1609004448,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "hosa",
+            "id": 145843,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "blooddrive",
+            "id": 656399,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "bchs",
+            "id": 234102,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "americanredcross",
+            "id": 5717956,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "donate",
+            "id": 259953,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "donateblood",
+            "id": 3476100,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "box",
+            "id": 48462,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

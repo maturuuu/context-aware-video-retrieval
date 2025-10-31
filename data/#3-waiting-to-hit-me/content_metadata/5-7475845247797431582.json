@@ -1,0 +1,163 @@
+{
+    "video_metadata": {
+        "id": 7475845247797431582,
+        "time_created": "2025-02-27T05:38:34",
+        "author_id": 6956981817841140741,
+        "description": "Well!? What are you waiting for? PX246 Wave 120hz 1080p IPS is perfect for console gaming with the Xbox Series X and PlayStation 5 #areyouwaitingforthatboxtohitme #boxtrend #funnymarketing #humormarketing #gamingmonitor #pixio ",
+        "hashtags": [
+            "areyouwaitingforthatboxtohitme",
+            "boxtrend",
+            "funnymarketing",
+            "humormarketing",
+            "gamingmonitor",
+            "pixio"
+        ],
+        "mentions": null,
+        "music_id": 7475845354475293471,
+        "schedule_time": 0,
+        "location_created": "US",
+        "is_ad": false,
+        "suggested_words": [
+            "are you waiting for that box to hit me",
+            "pixio gaming monitor",
+            "pixio px248 monitor",
+            "pixio px278 wave",
+            "waiting for that box to hit me",
+            "what you waiting for",
+            "funny video"
+        ],
+        "diggcount": 51000,
+        "sharecount": 6796,
+        "commentcount": 664,
+        "playcount": 1300000,
+        "collectcount": 11011,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": null,
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Video Games",
+            "Games",
+            "Entertainment"
+        ],
+        "diversification_id": 10056,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7475845247797431582,
+        "filepath": null,
+        "duration": 20,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -23.9,
+        "volume_peak": 0.53088,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 1,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7475845354475293471,
+        "title": "original sound",
+        "author_name": "Pixio Gaming 🖥️",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 20.00975,
+            "preciseShootDuration": 20.00975,
+            "preciseAuditionDuration": 20.00975,
+            "preciseVideoDuration": 20.00975
+        }
+    },
+    "author_metadata": {
+        "id": 6956981817841140741,
+        "username": "pixiogaming",
+        "name": "Pixio Gaming 🖥️",
+        "signature": "Work. Play. Dream in Pixels. ✨\nYour Aura. Our Gear. 💯% of the time.",
+        "create_time": 1619805582,
+        "verified": true,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 3,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "areyouwaitingforthatboxtohitme",
+            "id": 7465125142775988266,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "boxtrend",
+            "id": 14518648,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "funnymarketing",
+            "id": 1640588665872385,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "humormarketing",
+            "id": 1674101677627398,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "gamingmonitor",
+            "id": 1642861786211334,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "pixio",
+            "id": 1652898591889473,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

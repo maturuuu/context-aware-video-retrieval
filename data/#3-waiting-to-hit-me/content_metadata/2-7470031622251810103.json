@@ -1,0 +1,196 @@
+{
+    "video_metadata": {
+        "id": 7470031622251810103,
+        "time_created": "2025-02-11T13:38:04",
+        "author_id": 6788291891224347653,
+        "description": "Are you ready to join us THIS FRIDAY for a fun yet romantic Valentine’s event?? 💘  Bring your friends and or partner and RSVP with the link in our bio! #ubc #ubckwave #ubcstudents #kpop #kpopvancouver #fyp #fypシ゚ #ikon #lovescenario #valentinesday #loveyou ",
+        "hashtags": [
+            "ubc",
+            "ubckwave",
+            "ubcstudents",
+            "kpop",
+            "kpopvancouver",
+            "fyp",
+            "fypシ゚",
+            "ikon",
+            "lovescenario",
+            "valentinesday",
+            "loveyou"
+        ],
+        "mentions": null,
+        "music_id": 7470031651952003846,
+        "schedule_time": 0,
+        "location_created": "CA",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 150,
+        "sharecount": 219,
+        "commentcount": 3,
+        "playcount": 12000,
+        "collectcount": 76,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": null,
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": null,
+        "diversification_id": null,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7470031622251810103,
+        "filepath": null,
+        "duration": 11,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -14.6,
+        "volume_peak": 0.90157,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 1,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7470031651952003846,
+        "title": "original sound",
+        "author_name": "ubckwave",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 11.284875,
+            "preciseShootDuration": 11.284875,
+            "preciseAuditionDuration": 11.284875,
+            "preciseVideoDuration": 11.284875
+        }
+    },
+    "author_metadata": {
+        "id": 6788291891224347653,
+        "username": "ubckwave",
+        "name": "ubckwave",
+        "signature": "Dive into Korean Entertainment with Us! 💙 \n\nK-pop Club based in Vancouver 🥰",
+        "create_time": 1580522544,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "ubc",
+            "id": 14720422,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "ubckwave",
+            "id": 7011971947747606533,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "ubcstudents",
+            "id": 1673514295617541,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "kpop",
+            "id": 6985,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "No matter who you stan, we're here for all things #KPop."
+        },
+        {
+            "name": "kpopvancouver",
+            "id": 1656321196201990,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fypシ゚",
+            "id": 1641236262278149,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "ikon",
+            "id": 262574,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "lovescenario",
+            "id": 87498159,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "valentinesday",
+            "id": 10313,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Post E-commerce Short Videos with #valentinesday during the Campaign Period and top ranked creators by total accumulated Short Video GMV will be eligible to receive up to $100 voucher rewards issued by TikTok Platform between 10th-14th February 2025."
+        },
+        {
+            "name": "loveyou",
+            "id": 6244,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

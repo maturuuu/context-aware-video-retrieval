@@ -1,0 +1,169 @@
+{
+    "video_metadata": {
+        "id": 7486546269389868319,
+        "time_created": "2025-03-28T01:43:19",
+        "author_id": 7426788492967543838,
+        "description": "i’m just a girl 😌                                 @rhode skin @Rare Beauty @Summer Fridays @COVERGIRL #ohpieceofcandy #rhodepocketblush #rhodeliptreatment #rarebeautyblush #covergirllipstain #sunmerfridayslipbalm #funnytrend ",
+        "hashtags": [
+            "ohpieceofcandy",
+            "rhodepocketblush",
+            "rhodeliptreatment",
+            "rarebeautyblush",
+            "covergirllipstain",
+            "sunmerfridayslipbalm",
+            "funnytrend"
+        ],
+        "mentions": [
+            "6862342384647373830",
+            "6787850341360305157",
+            "6783057463367484422",
+            "6894652172451136518"
+        ],
+        "music_id": 7121429930117843717,
+        "schedule_time": 0,
+        "location_created": "US",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 727,
+        "sharecount": 68,
+        "commentcount": 15,
+        "playcount": 11500,
+        "collectcount": 20,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": null,
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Beauty",
+            "Beauty & Care",
+            "Beauty & Style"
+        ],
+        "diversification_id": 10026,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7486546269389868319,
+        "filepath": null,
+        "duration": 7,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -25,
+        "volume_peak": 0.20654,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 1,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7121429930117843717,
+        "title": "original sound",
+        "author_name": "Shadowless",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 10.893,
+            "preciseShootDuration": 10.893,
+            "preciseAuditionDuration": 10.893,
+            "preciseVideoDuration": 10.893
+        }
+    },
+    "author_metadata": {
+        "id": 7426788492967543838,
+        "username": "mals.inspo",
+        "name": "mal",
+        "signature": "📍minnesota\n💌mals.inspo@gmail.com",
+        "create_time": 1729289758,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "ohpieceofcandy",
+            "id": 1617696132974598,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "rhodepocketblush",
+            "id": 7378910805536735274,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "rhodeliptreatment",
+            "id": 7113715029001650222,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "rarebeautyblush",
+            "id": 1678210194654214,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "covergirllipstain",
+            "id": 7309599291989835822,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "sunmerfridayslipbalm",
+            "id": 7167128110133936171,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "funnytrend",
+            "id": 43096965,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

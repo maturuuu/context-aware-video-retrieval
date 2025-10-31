@@ -1,0 +1,189 @@
+{
+    "video_metadata": {
+        "id": 7471019949411028279,
+        "time_created": "2025-02-14T05:33:10",
+        "author_id": 7408050495287723014,
+        "description": "We’re still waiting for you to RSVP 🤩🫵📩 @TechStart UCalgary #fintech #techstart #fyp #ucalgary #SU #club #networkingevent #seeyou #funny ",
+        "hashtags": [
+            "fintech",
+            "techstart",
+            "fyp",
+            "ucalgary",
+            "su",
+            "club",
+            "networkingevent",
+            "seeyou",
+            "funny"
+        ],
+        "mentions": [
+            "6920096889501746182"
+        ],
+        "music_id": 7471019942394055479,
+        "schedule_time": 0,
+        "location_created": "CA",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 45,
+        "sharecount": 5,
+        "commentcount": 3,
+        "playcount": 2211,
+        "collectcount": 3,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "You’re probably waiting \nfor that box to hit me",
+                    "But we’re waiting for you \nto attend our next networking event \nwith Techstart",
+                    "Are you still waiting?"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": null,
+        "diversification_id": null,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7471019949411028279,
+        "filepath": null,
+        "duration": 12,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -28.7,
+        "volume_peak": 0.39811,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 1,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7471019942394055479,
+        "title": "original sound",
+        "author_name": "FinTech.Calgary",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 12.669375,
+            "preciseShootDuration": 12.669375,
+            "preciseAuditionDuration": 12.669375,
+            "preciseVideoDuration": 12.669375
+        }
+    },
+    "author_metadata": {
+        "id": 7408050495287723014,
+        "username": "fintech.calgary",
+        "name": "FinTech.Calgary",
+        "signature": "Welcome to the official page of FinTech Calgary! Link to join in Instagram bio!",
+        "create_time": 1724821316,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "fintech",
+            "id": 51122213,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "techstart",
+            "id": 1644709742833666,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "ucalgary",
+            "id": 1644423467830277,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "su",
+            "id": 166295,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "club",
+            "id": 5920,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "networkingevent",
+            "id": 4837083,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "seeyou",
+            "id": 25517,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "funny",
+            "id": 5424,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "What's so #Funny?"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "video_metadata": {
+        "id": 7504224318021225750,
+        "time_created": "2025-05-14T17:03:04",
+        "author_id": 7352244027275609121,
+        "description": "ooh a piece of candy #billieeilish #merch #hmhas #billieeilishfan #billiestan #billieeilishstan #viral #foryoupage #hmhastour ",
+        "hashtags": [
+            "billieeilish",
+            "merch",
+            "hmhas",
+            "billieeilishfan",
+            "billiestan",
+            "billieeilishstan",
+            "viral",
+            "foryoupage",
+            "hmhastour"
+        ],
+        "mentions": null,
+        "music_id": 7121429930117843717,
+        "schedule_time": 0,
+        "location_created": "NO",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 4253,
+        "sharecount": 371,
+        "commentcount": 20,
+        "playcount": 18500,
+        "collectcount": 538,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "how to successfully kidnap me:"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Outfit",
+            "Outfit",
+            "Beauty & Style"
+        ],
+        "diversification_id": 10029,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7504224318021225750,
+        "filepath": null,
+        "duration": 9,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -28.2,
+        "volume_peak": 0.14289,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": null,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7121429930117843717,
+        "title": "original sound",
+        "author_name": "Shadowless",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 10.893,
+            "preciseShootDuration": 10.893,
+            "preciseAuditionDuration": 10.893,
+            "preciseVideoDuration": 10.893
+        }
+    },
+    "author_metadata": {
+        "id": 7352244027275609121,
+        "username": "angelicaeilish",
+        "name": "𝐴𝑛𝑔𝑒𝑙𝑖𝑐𝑎ᵇᵉ",
+        "signature": "ᵇᵒⁱᵒⁱᵒⁱᵒⁱⁿᵍ\nnot that active atm sorryy",
+        "create_time": 1711827743,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "billieeilish",
+            "id": 2997693,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "merch",
+            "id": 495891,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "hmhas",
+            "id": 7231442154348871682,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "billieeilishfan",
+            "id": 1601996393874438,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "billiestan",
+            "id": 1611141309865989,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "billieeilishstan",
+            "id": 1617242770592774,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "viral",
+            "id": 20884,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "¡descubre las canciones en tendencia! 🔥➡️ https://bit.ly/TendenciasTikTok_LATAM"
+        },
+        {
+            "name": "foryoupage",
+            "id": 88764338,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "hmhastour",
+            "id": 7355652002216411169,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

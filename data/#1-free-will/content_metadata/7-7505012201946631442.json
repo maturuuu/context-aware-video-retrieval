@@ -1,0 +1,126 @@
+{
+    "video_metadata": {
+        "id": 7505012201946631442,
+        "time_created": "2025-05-16T20:00:24",
+        "author_id": 6871084370742494209,
+        "description": "Crazy use of free will #freewill #fyp ",
+        "hashtags": [
+            "freewill",
+            "fyp"
+        ],
+        "mentions": null,
+        "music_id": 7251253798243404570,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 54,
+        "sharecount": 4,
+        "commentcount": 6,
+        "playcount": 1439,
+        "collectcount": 1,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": false,
+        "stitch_enabled": false,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "Realizing I have free will and can eat ice cream with an empty stomach after hitting the gym "
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Food Display",
+            "Food & Drink",
+            "Lifestyle"
+        ],
+        "diversification_id": 10039,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7505012201946631442,
+        "filepath": null,
+        "duration": 6,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -28.2,
+        "volume_peak": 0.21878,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": null,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7251253798243404570,
+        "title": "at a medium pace",
+        "author_name": "Cieran",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 11.964063,
+            "preciseShootDuration": 11.964063,
+            "preciseAuditionDuration": 11.964063,
+            "preciseVideoDuration": 11.964063
+        }
+    },
+    "author_metadata": {
+        "id": 6871084370742494209,
+        "username": "joohanney",
+        "name": "buttercream🧈",
+        "signature": "I vlog sometimes ! 🍸🎱🪭\ntaiwan vlog 🇹🇼 👇",
+        "create_time": 1599771870,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 3,
+        "stitch_setting": 3,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "freewill",
+            "id": 40039,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

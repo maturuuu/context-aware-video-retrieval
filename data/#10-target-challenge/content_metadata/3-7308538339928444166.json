@@ -1,0 +1,126 @@
+{
+    "video_metadata": {
+        "id": 7308538339928444166,
+        "time_created": "2023-12-04T09:01:30",
+        "author_id": 6883794379233739778,
+        "description": "3 years and counting 🫶🏻 #exchangegiftchallenge #couple ",
+        "hashtags": [
+            "exchangegiftchallenge",
+            "couple"
+        ],
+        "mentions": null,
+        "music_id": 6951725638273272578,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [
+            "exchange gift challenge",
+            "exchange gift",
+            "fav color",
+            "gift for boyfriend",
+            "Anniversary Gift Challenge",
+            "anniversary gift challenge list"
+        ],
+        "diggcount": 38100,
+        "sharecount": 9295,
+        "commentcount": 646,
+        "playcount": 1000000,
+        "collectcount": 7456,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": false,
+        "stitch_enabled": false,
+        "stickers_on_item": null,
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Romance",
+            "Relationship",
+            "Family & Relationship"
+        ],
+        "diversification_id": 10012,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7308538339928444166,
+        "filepath": null,
+        "duration": 75,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -19.2,
+        "volume_peak": 0.60954,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": null,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 6951725638273272578,
+        "title": "original sound - Kenaniah",
+        "author_name": "Kenaniah",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 50,
+            "preciseShootDuration": 50,
+            "preciseAuditionDuration": 50,
+            "preciseVideoDuration": 50
+        }
+    },
+    "author_metadata": {
+        "id": 6883794379233739778,
+        "username": "yoitsmesij",
+        "name": "ѕιєgє ➳",
+        "signature": "IG: @chcortez_",
+        "create_time": 1613502322,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 3,
+        "stitch_setting": 3,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 3,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "exchangegiftchallenge",
+            "id": 1681808554650625,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "couple",
+            "id": 10774,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

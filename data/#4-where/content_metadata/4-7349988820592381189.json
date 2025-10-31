@@ -1,0 +1,165 @@
+{
+    "video_metadata": {
+        "id": 7349988820592381189,
+        "time_created": "2024-03-25T01:50:31",
+        "author_id": 13491805,
+        "description": "I Promise we’re normal😭… #wherechallenge #amo_thobye #tiktoksouthafrica #blackgirltiktok #fyp @whoisthuli🎀 @KT💕 ",
+        "hashtags": [
+            "wherechallenge",
+            "amo_thobye",
+            "tiktoksouthafrica",
+            "blackgirltiktok",
+            "fyp"
+        ],
+        "mentions": [
+            "6804814767326708742",
+            "110924499717332992"
+        ],
+        "music_id": 7349988813745048326,
+        "schedule_time": 0,
+        "location_created": "ZA",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 28800,
+        "sharecount": 1252,
+        "commentcount": 298,
+        "playcount": 138700,
+        "collectcount": 896,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "“YOUNGER GUY”",
+                    "“BROKE GUY”",
+                    "“Congolese guy”",
+                    "“Gym rat”",
+                    "“Dad Bod”",
+                    "“Dread head”",
+                    "“SOTHO MAN”",
+                    "“Short guy”",
+                    "“Naija boy”",
+                    "“Bearded guy”",
+                    "“Joburg gent”"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Comedy",
+            "Performance"
+        ],
+        "diversification_id": 10003,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7349988820592381189,
+        "filepath": null,
+        "duration": 35,
+        "height": 854,
+        "width": 480,
+        "ratio": 480,
+        "volume_loudness": -21.1,
+        "volume_peak": 0.47315,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": null,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7349988813745048326,
+        "title": "original sound",
+        "author_name": "Amo Thobye",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 35.552624,
+            "preciseShootDuration": 35.552624,
+            "preciseAuditionDuration": 35.552624,
+            "preciseVideoDuration": 35.552624
+        }
+    },
+    "author_metadata": {
+        "id": 13491805,
+        "username": "amo_thobye",
+        "name": "Amo Thobye",
+        "signature": "Lifestyle||Beauty & skincare Content\n📧 :amothobye@gmail.com\nCape Town 🇿🇦",
+        "create_time": 1445543753,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "wherechallenge",
+            "id": 5533752,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "amo_thobye",
+            "id": 5363086,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "tiktoksouthafrica",
+            "id": 1603644472305665,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "blackgirltiktok",
+            "id": 1646825497982981,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

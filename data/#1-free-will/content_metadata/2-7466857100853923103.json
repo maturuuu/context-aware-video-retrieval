@@ -1,0 +1,108 @@
+{
+    "video_metadata": {
+        "id": 7466857100853923103,
+        "time_created": "2025-02-03T00:19:41",
+        "author_id": 7193174364027094062,
+        "description": "Shout out @angies.family.eats for the recipe 🫡",
+        "hashtags": [],
+        "mentions": [
+            "7443199448089527342"
+        ],
+        "music_id": 7249539671548791598,
+        "schedule_time": 0,
+        "location_created": "US",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 13000,
+        "sharecount": 2163,
+        "commentcount": 53,
+        "playcount": 187000,
+        "collectcount": 2168,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": false,
+        "stitch_enabled": false,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "pov: you remember you have free will and no one can stop you from making home made mini corn dogs "
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Cooking",
+            "Food & Drink",
+            "Lifestyle"
+        ],
+        "diversification_id": 10040,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7466857100853923103,
+        "filepath": null,
+        "duration": 61,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -15.1,
+        "volume_peak": 0.54325,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 1,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7249539671548791598,
+        "title": "original sound",
+        "author_name": "teeharpo",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 210.15506,
+            "preciseShootDuration": 210.15506,
+            "preciseAuditionDuration": 210.15506,
+            "preciseVideoDuration": 210.15506
+        }
+    },
+    "author_metadata": {
+        "id": 7193174364027094062,
+        "username": "wild_milk",
+        "name": "mik wild",
+        "signature": "A girl has no niche \nLA 🫶🏼\nMikwildbusiness@gmail.com",
+        "create_time": 1674791527,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": []
+}

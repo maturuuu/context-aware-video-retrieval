@@ -1,0 +1,111 @@
+{
+    "video_metadata": {
+        "id": 7516116393297775880,
+        "time_created": "2025-06-15T18:10:22",
+        "author_id": 6563548452646354946,
+        "description": "this trend with the bestie >>> @taniiiaslmn ",
+        "hashtags": [],
+        "mentions": [
+            "6812574101011022854"
+        ],
+        "music_id": 6815712093161916417,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [
+            "Best Friend Trends",
+            "besties so hard trend",
+            "BFF Trends",
+            "HAPPY"
+        ],
+        "diggcount": 785,
+        "sharecount": 485,
+        "commentcount": 10,
+        "playcount": 54800,
+        "collectcount": 554,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": false,
+        "stitch_enabled": false,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "“I’m so happy!”",
+                    "“why?! we’re just eating”",
+                    "“because we’re together :)”"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": null,
+        "diversification_id": null,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7516116393297775880,
+        "filepath": null,
+        "duration": 5,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -19.4,
+        "volume_peak": 0.39355,
+        "has_original_audio": false,
+        "enable_audio_caption": false,
+        "no_caption_reason": 2,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 6815712093161916417,
+        "title": "Western Music: Arizona Dreaming",
+        "author_name": "Piero Piccioni",
+        "original": false,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 30.512,
+            "preciseShootDuration": 30.512,
+            "preciseAuditionDuration": 30.512,
+            "preciseVideoDuration": 60
+        }
+    },
+    "author_metadata": {
+        "id": 6563548452646354946,
+        "username": "lylylieee",
+        "name": "aly🧚🏽‍♀️",
+        "signature": "ceb, ph",
+        "create_time": 1528167623,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 1,
+        "stitch_setting": 1,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 3,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": []
+}

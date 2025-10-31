@@ -1,0 +1,137 @@
+{
+    "video_metadata": {
+        "id": 7542880258853375240,
+        "time_created": "2025-08-26T21:07:49",
+        "author_id": 6869512131471115266,
+        "description": "🤷‍♀️ @Anna Cheung Couture #modelph #ascottbgc #fyp ",
+        "hashtags": [
+            "modelph",
+            "ascottbgc",
+            "fyp"
+        ],
+        "mentions": [
+            "6811101013748564994"
+        ],
+        "music_id": 7519237216064817942,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 27,
+        "sharecount": 4,
+        "commentcount": 9,
+        "playcount": 394,
+        "collectcount": 2,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "“Sorry we’re late…\nVirgo was throwing a fit”"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Outfit",
+            "Outfit",
+            "Beauty & Style"
+        ],
+        "diversification_id": 10029,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7542880258853375240,
+        "filepath": null,
+        "duration": 20,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -28.1,
+        "volume_peak": 0.13646,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7519237216064817942,
+        "title": "Originalton",
+        "author_name": "donjeta",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 24.607313,
+            "preciseShootDuration": 24.607313,
+            "preciseAuditionDuration": 24.607313,
+            "preciseVideoDuration": 24.607313
+        }
+    },
+    "author_metadata": {
+        "id": 6869512131471115266,
+        "username": "virgo..duh",
+        "name": "virgo",
+        "signature": "📷 virginia.reign \n💌 juegovirginia@gmail.com",
+        "create_time": 1599404410,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "modelph",
+            "id": 46522330,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "ascottbgc",
+            "id": 1689914236670978,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

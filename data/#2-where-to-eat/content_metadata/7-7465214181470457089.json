@@ -1,0 +1,160 @@
+{
+    "video_metadata": {
+        "id": 7465214181470457089,
+        "time_created": "2025-01-29T14:04:23",
+        "author_id": 7427865210898482192,
+        "description": "goods pa rin tho 👌 #batobatopick #rockpaperscissors #foodchallenge #batobatopickfoodchallenge #cravings #fyp ",
+        "hashtags": [
+            "batobatopick",
+            "rockpaperscissors",
+            "foodchallenge",
+            "batobatopickfoodchallenge",
+            "cravings",
+            "fyp"
+        ],
+        "mentions": null,
+        "music_id": 7198380237963560962,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 216,
+        "sharecount": 225,
+        "commentcount": 4,
+        "playcount": 38800,
+        "collectcount": 81,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "unli wings 🍗",
+                    "samgyup 🥩",
+                    "Bato bato pick food challenge\nRock paper scissors\nFood challenge\nCravings\nFyp"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": null,
+        "diversification_id": null,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7465214181470457089,
+        "filepath": null,
+        "duration": 8,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -17.9,
+        "volume_peak": 0.45186,
+        "has_original_audio": false,
+        "enable_audio_caption": false,
+        "no_caption_reason": 2,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7198380237963560962,
+        "title": "Hinoki Wood",
+        "author_name": "Gia Margaret",
+        "original": false,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 51.947,
+            "preciseShootDuration": 51.947,
+            "preciseAuditionDuration": 51.947,
+            "preciseVideoDuration": 60
+        }
+    },
+    "author_metadata": {
+        "id": 7427865210898482192,
+        "username": "jemmymeowy",
+        "name": "jemmymeowy",
+        "signature": "life, faith, and coffee ☕️\n📩jemimagutierrez99@gmail.com",
+        "create_time": 1729434910,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "batobatopick",
+            "id": 1600849406272513,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "rockpaperscissors",
+            "id": 1507818,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "foodchallenge",
+            "id": 121807,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "batobatopickfoodchallenge",
+            "id": 7053355989789048858,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "cravings",
+            "id": 37785,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

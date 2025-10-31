@@ -1,0 +1,175 @@
+{
+    "video_metadata": {
+        "id": 7464886168388111623,
+        "time_created": "2025-01-28T16:50:56",
+        "author_id": 6557184584533671937,
+        "description": "layo pa ng sahod eh hahaha #batobatopick #rockpaperscissors #froyo #sundae #icecream #corpolife #work ",
+        "hashtags": [
+            "batobatopick",
+            "rockpaperscissors",
+            "froyo",
+            "sundae",
+            "icecream",
+            "corpolife",
+            "work"
+        ],
+        "mentions": null,
+        "music_id": 7446415015793756950,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [
+            "batobatopick",
+            "blk 513 moa",
+            "blk 513 baguio",
+            "llao llao"
+        ],
+        "diggcount": 201,
+        "sharecount": 5,
+        "commentcount": 3,
+        "playcount": 7854,
+        "collectcount": 8,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "BLK 513",
+                    "LLAO LLAO",
+                    "🥳🎉🏆",
+                    "…"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": null,
+        "diversification_id": null,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7464886168388111623,
+        "filepath": null,
+        "duration": 9,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -24.4,
+        "volume_peak": 0.21627,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7446415015793756950,
+        "title": "оригинальный звук",
+        "author_name": "Демиан Волков 01",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 9.299563,
+            "preciseShootDuration": 9.299563,
+            "preciseAuditionDuration": 9.299563,
+            "preciseVideoDuration": 9.299563
+        }
+    },
+    "author_metadata": {
+        "id": 6557184584533671937,
+        "username": "itspaulramos",
+        "name": "paul ☆",
+        "signature": "define me by the things that i love ♡ \n💌 ugc.paulramos@gmail.com",
+        "create_time": 1533051103,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "batobatopick",
+            "id": 1600849406272513,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "rockpaperscissors",
+            "id": 1507818,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "froyo",
+            "id": 287999,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "sundae",
+            "id": 41344,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "icecream",
+            "id": 10040,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Where are all the icecream lovers at? Show us your best homemade icecream recipes yet!🍦"
+        },
+        {
+            "name": "corpolife",
+            "id": 1595814908791814,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "work",
+            "id": 6122,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

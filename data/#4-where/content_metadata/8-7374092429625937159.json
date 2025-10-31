@@ -1,0 +1,133 @@
+{
+    "video_metadata": {
+        "id": 7374092429625937159,
+        "time_created": "2024-05-29T00:44:52",
+        "author_id": 6820968956200731649,
+        "description": "Ok but this was so fun to film cause WHERE?! #where #fyp #wheretrend #girlsnight ",
+        "hashtags": [
+            "where",
+            "fyp",
+            "wheretrend",
+            "girlsnight"
+        ],
+        "mentions": null,
+        "music_id": 7374092491668851473,
+        "schedule_time": 0,
+        "location_created": "SG",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 43,
+        "sharecount": 3,
+        "commentcount": 3,
+        "playcount": 542,
+        "collectcount": 4,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": null,
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": null,
+        "diversification_id": null,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7374092429625937159,
+        "filepath": null,
+        "duration": 37,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -15,
+        "volume_peak": 0.93325,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 1,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7374092491668851473,
+        "title": "original sound - chloe🦋💖🌤️",
+        "author_name": "chloe🦋💖🌤️",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 37.12,
+            "preciseShootDuration": 37.12,
+            "preciseAuditionDuration": 37.12,
+            "preciseVideoDuration": 37.12
+        }
+    },
+    "author_metadata": {
+        "id": 6820968956200731649,
+        "username": "chloerbrts",
+        "name": "chloe🦋💖🌤️",
+        "signature": "🇸🇬🇵🇭",
+        "create_time": 1588102106,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "where",
+            "id": 12676,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "wheretrend",
+            "id": 7168768551813054469,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "girlsnight",
+            "id": 12144,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

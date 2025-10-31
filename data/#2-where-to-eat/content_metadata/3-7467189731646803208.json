@@ -1,0 +1,195 @@
+{
+    "video_metadata": {
+        "id": 7467189731646803208,
+        "time_created": "2025-02-03T21:49:58",
+        "author_id": 6565034021876482049,
+        "description": "sarap?…. #fyp #foodtrip #batobatopick #food #delulu #baguiocity #finediningrestaurants #panagbenga2025 ",
+        "hashtags": [
+            "fyp",
+            "foodtrip",
+            "batobatopick",
+            "food",
+            "delulu",
+            "baguiocity",
+            "finediningrestaurants",
+            "panagbenga2025"
+        ],
+        "mentions": null,
+        "music_id": 7446415015793756950,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [
+            "blake's baguio",
+            "grumpy joe baguio city",
+            "NABE",
+            "Grumpy Joe",
+            "nabe baguio",
+            "nabe baguio city",
+            "Baguio",
+            "blake's",
+            "blakes steak baguio",
+            "blake's wings and steak baguio"
+        ],
+        "diggcount": 6467,
+        "sharecount": 1380,
+        "commentcount": 50,
+        "playcount": 106400,
+        "collectcount": 361,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": false,
+        "stitch_enabled": false,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "Blake’s🥩",
+                    "Nabe🍲",
+                    "Grumpy Joe🍕",
+                    "Nabe🍲",
+                    "…?"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Mukbangs & Tasting",
+            "Food & Drink",
+            "Lifestyle"
+        ],
+        "diversification_id": 10041,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7467189731646803208,
+        "filepath": null,
+        "duration": 14,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -24.8,
+        "volume_peak": 0.38459,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7446415015793756950,
+        "title": "оригинальный звук",
+        "author_name": "Демиан Волков 01",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 9.299563,
+            "preciseShootDuration": 9.299563,
+            "preciseAuditionDuration": 9.299563,
+            "preciseVideoDuration": 9.299563
+        }
+    },
+    "author_metadata": {
+        "id": 6565034021876482049,
+        "username": "_zxick",
+        "name": "Zxick",
+        "signature": "ig: ffiiddeelll",
+        "create_time": 1530628772,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 3,
+        "stitch_setting": 3,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "foodtrip",
+            "id": 813397,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "batobatopick",
+            "id": 1600849406272513,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "food",
+            "id": 5718,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "delulu",
+            "id": 67105159,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "baguiocity",
+            "id": 4027490,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "finediningrestaurants",
+            "id": 1672882950505478,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "panagbenga2025",
+            "id": 7453260462893826049,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "video_metadata": {
+        "id": 7516788871850429714,
+        "time_created": "2025-06-17T13:39:55",
+        "author_id": 6554551562404200450,
+        "description": "Anniversary exchange gift challenge 🤪 #anniversary #exchangegift #anniversarygift ",
+        "hashtags": [
+            "anniversary",
+            "exchangegift",
+            "anniversarygift"
+        ],
+        "mentions": null,
+        "music_id": 7160614629595416577,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [
+            "Anniversary Exchange Gift Challenge",
+            "anniversary gift challenge",
+            "exchange gift challenge",
+            "exchange gift",
+            "anniversary gift exchange gift",
+            "anniversary gifts",
+            "anniversary couple exchange gift",
+            "honey butter chips",
+            "anniversary food exchange gift challenge",
+            "anniversary trend exchange gift"
+        ],
+        "diggcount": 25700,
+        "sharecount": 8544,
+        "commentcount": 335,
+        "playcount": 704600,
+        "collectcount": 4726,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "Anniversary \nExchange gift Challenge ",
+                    "Favorite Color 🎀🕶️",
+                    "Favorite Snacks ",
+                    "Favorite Drinks 🤪",
+                    "Something Random ",
+                    "Something you need ",
+                    "Something you want",
+                    "Something that \nreminds me of you",
+                    "Anniversary Gift "
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": null,
+        "diversification_id": null,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7516788871850429714,
+        "filepath": null,
+        "duration": 60,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -17.6,
+        "volume_peak": 0.60954,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": null,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7160614629595416577,
+        "title": "Saksi Ang Langit",
+        "author_name": "December Avenue",
+        "original": false,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 60,
+            "preciseShootDuration": 60,
+            "preciseAuditionDuration": 60,
+            "preciseVideoDuration": 60
+        }
+    },
+    "author_metadata": {
+        "id": 6554551562404200450,
+        "username": "itskrizzap",
+        "name": "K 🌼",
+        "signature": "❤️",
+        "create_time": 1526234118,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "anniversary",
+            "id": 15051,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "exchangegift",
+            "id": 42888044,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "anniversarygift",
+            "id": 49225678,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

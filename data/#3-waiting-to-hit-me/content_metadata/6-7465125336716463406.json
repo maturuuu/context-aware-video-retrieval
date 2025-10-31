@@ -1,0 +1,191 @@
+{
+    "video_metadata": {
+        "id": 7465125336716463406,
+        "time_created": "2025-01-29T08:19:39",
+        "author_id": 6849207877774607366,
+        "description": "Well?! What are you waiting for??? Sign up at sdwalkforanimals.org and quick! #areyouwaitingforthatboxtohitme #boxtrend #funnymarketing #humormarketing #boxthrowingtrend #boxhittingtrend #funnytrend ",
+        "hashtags": [
+            "areyouwaitingforthatboxtohitme",
+            "boxtrend",
+            "funnymarketing",
+            "humormarketing",
+            "boxthrowingtrend",
+            "boxhittingtrend",
+            "funnytrend"
+        ],
+        "mentions": null,
+        "music_id": 7465130583274982190,
+        "schedule_time": 0,
+        "location_created": "US",
+        "is_ad": false,
+        "suggested_words": [
+            "are you waiting for that box to hit me",
+            "are you still waiting for that box to hit me",
+            "waiting for that box to hit me",
+            "are you still waiting on box to hit me",
+            "waiting box",
+            "youre waiting for the box to hit me",
+            "marketing box",
+            "are you waiting for that box to hit me filipino",
+            "funny marketing videos transition",
+            "boxthrowingtrend"
+        ],
+        "diggcount": 20100,
+        "sharecount": 7791,
+        "commentcount": 130,
+        "playcount": 792800,
+        "collectcount": 10244,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": false,
+        "stitch_enabled": false,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "Oh,",
+                    "we’re you waiting",
+                    "for that box",
+                    "to hit me?",
+                    "Well, I’m still waiting",
+                    "for you to sign up",
+                    "for the Walk for Animals",
+                    "on March 22"
+                ],
+                "stickerType": 4
+            },
+            {
+                "stickerText": [
+                    "😱 "
+                ],
+                "stickerType": 9
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": null,
+        "diversification_id": null,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7465125336716463406,
+        "filepath": null,
+        "duration": 7,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -33.5,
+        "volume_peak": 0.14289,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 1,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7465130583274982190,
+        "title": "original sound",
+        "author_name": "San Diego Humane Society",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 6.922438,
+            "preciseShootDuration": 6.922438,
+            "preciseAuditionDuration": 6.922438,
+            "preciseVideoDuration": 6.922438
+        }
+    },
+    "author_metadata": {
+        "id": 6849207877774607366,
+        "username": "sdhumanesociety",
+        "name": "San Diego Humane Society",
+        "signature": "Saving animals in San Diego, CA📍\nOn a mission to create a more humane world!🐾",
+        "create_time": 1594838333,
+        "verified": true,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "areyouwaitingforthatboxtohitme",
+            "id": 7465125142775988266,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "boxtrend",
+            "id": 14518648,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "funnymarketing",
+            "id": 1640588665872385,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "humormarketing",
+            "id": 1674101677627398,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "boxthrowingtrend",
+            "id": 7463521251966124054,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "boxhittingtrend",
+            "id": 7465123667580567598,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "funnytrend",
+            "id": 43096965,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

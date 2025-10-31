@@ -1,0 +1,149 @@
+{
+    "video_metadata": {
+        "id": 7523958234248383762,
+        "time_created": "2025-07-06T21:20:42",
+        "author_id": 6812475700576109569,
+        "description": "Just remembered I have free will #freewill #random #fyp #lime ",
+        "hashtags": [
+            "freewill",
+            "random",
+            "fyp",
+            "lime"
+        ],
+        "mentions": null,
+        "music_id": 7245378931469404933,
+        "schedule_time": 0,
+        "location_created": "MY",
+        "is_ad": false,
+        "suggested_words": [
+            "free will",
+            "pov you remembered you have free will",
+            "just remembered i have free will",
+            "you suddenly get the urge to do something random",
+            "remembered i have free will",
+            "free will comments",
+            "insane use of free will",
+            "funny random thoughts"
+        ],
+        "diggcount": 283600,
+        "sharecount": 188500,
+        "commentcount": 1344,
+        "playcount": 2000000,
+        "collectcount": 6059,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": false,
+        "stitch_enabled": false,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "POV: You suddenly get \nthe urge to do something random \nand you actually do it."
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": null,
+        "diversification_id": null,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7523958234248383762,
+        "filepath": null,
+        "duration": 14,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -16,
+        "volume_peak": 0.49545,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7245378931469404933,
+        "title": "sonido original",
+        "author_name": "cancionesquemeencantan",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 53.080814,
+            "preciseShootDuration": 53.080814,
+            "preciseAuditionDuration": 53.080814,
+            "preciseVideoDuration": 53.080814
+        }
+    },
+    "author_metadata": {
+        "id": 6812475700576109569,
+        "username": "hanim_104",
+        "name": "hanim ~ 🍉🩵",
+        "signature": "🌱💙🦦\nCloud girl",
+        "create_time": 1586124727,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 3,
+        "stitch_setting": 3,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "freewill",
+            "id": 40039,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "random",
+            "id": 9987,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "lime",
+            "id": 46876,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

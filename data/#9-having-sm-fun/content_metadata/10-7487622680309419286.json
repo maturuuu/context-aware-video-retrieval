@@ -1,0 +1,110 @@
+{
+    "video_metadata": {
+        "id": 7487622680309419286,
+        "time_created": "2025-03-30T23:20:12",
+        "author_id": 6665649139550715909,
+        "description": "bye bye boracay @ysobel luna ",
+        "hashtags": [],
+        "mentions": [
+            "6997450235266171931"
+        ],
+        "music_id": 6815712093161916417,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 26500,
+        "sharecount": 1554,
+        "commentcount": 20,
+        "playcount": 224300,
+        "collectcount": 617,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "im so happy",
+                    "why we’re just walking?",
+                    "yea but we’re together"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Diary & VLOG",
+            "Daily Life",
+            "Lifestyle"
+        ],
+        "diversification_id": 10014,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7487622680309419286,
+        "filepath": null,
+        "duration": 10,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -19.1,
+        "volume_peak": 0.38905,
+        "has_original_audio": false,
+        "enable_audio_caption": false,
+        "no_caption_reason": 2,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 6815712093161916417,
+        "title": "Western Music: Arizona Dreaming",
+        "author_name": "Piero Piccioni",
+        "original": false,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 30.512,
+            "preciseShootDuration": 30.512,
+            "preciseAuditionDuration": 30.512,
+            "preciseVideoDuration": 60
+        }
+    },
+    "author_metadata": {
+        "id": 6665649139550715909,
+        "username": "migmiggymig",
+        "name": "miguel",
+        "signature": "📍🇬🇧/🇵🇭\n📩 miguellmiggyy@gmail.com",
+        "create_time": 1552081278,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": []
+}

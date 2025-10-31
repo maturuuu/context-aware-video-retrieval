@@ -1,0 +1,127 @@
+{
+    "video_metadata": {
+        "id": 7516108400787295495,
+        "time_created": "2025-06-15T17:39:19",
+        "author_id": 6937945360392651778,
+        "description": "10/10 this really prevented me from hearing my own thoughts #fyp ",
+        "hashtags": [
+            "fyp"
+        ],
+        "mentions": null,
+        "music_id": 7441716564870646571,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [
+            "this really prevented hearing my own thoughts",
+            "free will",
+            "lrt antipolo station",
+            "carousel ride toys",
+            "carousel midnight ride",
+            "free will meaning",
+            "carousel midnight ride edsa",
+            "edsa carousel end to end",
+            "carousel bus",
+            "lrt to baguio"
+        ],
+        "diggcount": 114500,
+        "sharecount": 5885,
+        "commentcount": 489,
+        "playcount": 750500,
+        "collectcount": 4582,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": false,
+        "stitch_enabled": false,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "I was so curious about the LRT so I rode it from end to end\n i luv free will"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Random Shoot",
+            "Others"
+        ],
+        "diversification_id": 10075,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7516108400787295495,
+        "filepath": null,
+        "duration": 10,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -11,
+        "volume_peak": 0.88105,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7441716564870646571,
+        "title": "back to friends by sombr drops Dec 27",
+        "author_name": "sombr",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 23.405687,
+            "preciseShootDuration": 23.405687,
+            "preciseAuditionDuration": 23.405687,
+            "preciseVideoDuration": 23.405687
+        }
+    },
+    "author_metadata": {
+        "id": 6937945360392651778,
+        "username": "love.maceee",
+        "name": "dump ni mc to",
+        "signature": "baka di ko kayo ka-humor ha umalis na kayo\nIG: @mrcrsarmiento_ | @love.maceee",
+        "create_time": 1615517628,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 3,
+        "stitch_setting": 3,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "fyp",
+            "id": null,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": null
+        }
+    ]
+}

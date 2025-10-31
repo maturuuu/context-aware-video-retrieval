@@ -1,0 +1,113 @@
+{
+    "video_metadata": {
+        "id": 7477958483552259336,
+        "time_created": "2025-03-04T22:18:10",
+        "author_id": 6562409624384815105,
+        "description": "Low iron besties",
+        "hashtags": [],
+        "mentions": null,
+        "music_id": 6815712093161916417,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [
+            "have so much fun",
+            "im having so much fun but we're just eating",
+            "friends having fun together in the rain",
+            "Best Friend Trends",
+            "friend tiktok duo"
+        ],
+        "diggcount": 10100,
+        "sharecount": 1697,
+        "commentcount": 24,
+        "playcount": 89100,
+        "collectcount": 330,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "“I’m having so much fun!!”",
+                    "“We’re literally just sitting here”",
+                    "“But we’re sitting together!”"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Random Shoot",
+            "Others"
+        ],
+        "diversification_id": 10075,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7477958483552259336,
+        "filepath": null,
+        "duration": 7,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -19.3,
+        "volume_peak": 0.38905,
+        "has_original_audio": false,
+        "enable_audio_caption": false,
+        "no_caption_reason": 2,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 6815712093161916417,
+        "title": "Western Music: Arizona Dreaming",
+        "author_name": "Piero Piccioni",
+        "original": false,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 30.512,
+            "preciseShootDuration": 30.512,
+            "preciseAuditionDuration": 30.512,
+            "preciseVideoDuration": 60
+        }
+    },
+    "author_metadata": {
+        "id": 6562409624384815105,
+        "username": "angelicadchvzz",
+        "name": "Ica ✰",
+        "signature": "I ❤️ dogs\n📬 angelicadchvz@gmail.com",
+        "create_time": 1527902724,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": []
+}
