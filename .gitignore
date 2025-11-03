@@ -210,3 +210,21 @@ __marimo__/
 proc_out/
 proc_out_32kHz/
 embeddings_out/
+
+# Google API Credentials
+client_secrets.json
+
+# PyDrive authentication token
+credentials.json
+token.json
+
+# Generated data
+*.mp4
+*.mov
+*.avi
+*.npy
+*.csv
+
+# OS-specific files
+.DS_Store
+Thumbs.db
