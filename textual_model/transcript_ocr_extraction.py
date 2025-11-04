@@ -25,9 +25,9 @@ import sys
 warnings.filterwarnings('ignore')
 
 # Configuration
-VIDEO_PATH = "/content/video.mp4"
-OUTPUT_CSV = "/content/video_text_outputs.csv"
-OPENAI_API_KEY = "INSERT_KEY_HERE"  # Replace with your key
+# VIDEO_PATH = "/content/video.mp4"
+OUTPUT_CSV = "video_text_outputs.csv"
+OPENAI_API_KEY = "REPLACE_KEY"  # Replace with your key
 
 import re
 import os
@@ -41,6 +41,7 @@ from faster_whisper import WhisperModel
 from openai import OpenAI
 import numpy as np
 from difflib import SequenceMatcher
+import glob  # <-- make sure this is imported somewhere in your actual file
 
 def _list_local_videos(root_dir):
     """Recursively list common video files under a local folder."""
@@ -57,13 +58,13 @@ def _ensure_gdown():
     except Exception:
         subprocess.check_call([sys.executable, "-m", "pip", "install", "-q", "gdown"])
 
-def _fetch_videos_from_gdrive_folder(folder_url_or_path, dest="/content/gdrive_videos"):
+def _fetch_videos_from_folder(folder_url_or_path, dest="/content/gdrive_videos"):
     """
     If given a Google Drive folder link, downloads it into `dest` and returns local video paths.
     If given a local path, just lists video files there.
     """
     if not folder_url_or_path or folder_url_or_path.strip() == "":
-        raise ValueError("GDRIVE_FOLDER_URL is empty. Please set it to a Drive folder link or a local folder path.")
+        raise ValueError("FOLDER_URL is empty. Please set it to a Drive folder link or a local folder path.")
 
     # If it's a Drive link, use gdown to download folder
     if "drive.google.com" in folder_url_or_path:
@@ -501,11 +502,14 @@ def main():
     # 1) Gather videos
     print("Discovering videos...\n")
 
-    GDRIVE_FOLDER_URL = "https://drive.google.com/drive/folders/1dlmKzswUzVj8yDvintaWK61bTkPZLX3E?usp=sharing"
+    # CHANGE HERE: point to a LOCAL folder instead of a Drive URL
+    # Example (Windows): r"C:\Users\YourName\Videos\my_clips"
+    # Example (Mac/Linux): "/Users/yourname/Videos/my_clips"
+    FOLDER_URL = r"/path/to/your/local/video/folder"
 
-    video_paths = _fetch_videos_from_gdrive_folder(GDRIVE_FOLDER_URL)
+    video_paths = _fetch_videos_from_folder(FOLDER_URL)
     if not video_paths:
-        print("No videos found. Please check GDRIVE_FOLDER_URL.")
+        print("No videos found. Please check FOLDER_URL.")
         return
 
     print(f"Found {len(video_paths)} video(s).")
