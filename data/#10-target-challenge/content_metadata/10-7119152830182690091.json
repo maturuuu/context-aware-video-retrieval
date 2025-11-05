@@ -1,0 +1,178 @@
+{
+    "video_metadata": {
+        "id": 7119152830182690091,
+        "time_created": "2022-07-12T00:29:00",
+        "author_id": 6646939088598597638,
+        "description": "The end has me dead… I just didnt know what to think 😅 #target #challenege #shopping #bff #prank #favoritecolor #PrimeDayDreamDeals",
+        "hashtags": [
+            "target",
+            "challenege",
+            "shopping",
+            "bff",
+            "prank",
+            "favoritecolor",
+            "primedaydreamdeals"
+        ],
+        "mentions": null,
+        "music_id": 6985417910999436034,
+        "schedule_time": 0,
+        "location_created": "US",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 1964,
+        "sharecount": 155,
+        "commentcount": 38,
+        "playcount": 28400,
+        "collectcount": 216,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "✨TARGET CHALLENGE ✨",
+                    "Snack 🥨",
+                    "Something Comfy 🧸",
+                    "Something that reminds you of them 🤔",
+                    "Something they need 🛍",
+                    "Favorite color 🎨"
+                ],
+                "stickerType": 4
+            },
+            {
+                "stickerText": [
+                    "TARGET\nCHALLENGE"
+                ],
+                "stickerType": 9
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": null,
+        "diversification_id": null,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7119152830182690091,
+        "filepath": null,
+        "duration": 88,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -14.6,
+        "volume_peak": 0.93325,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": null,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 6985417910999436034,
+        "title": "Everybody Wants To Rule The World",
+        "author_name": "The Moving Stills",
+        "original": false,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 102.073,
+            "preciseShootDuration": 60,
+            "preciseAuditionDuration": 60,
+            "preciseVideoDuration": 60
+        }
+    },
+    "author_metadata": {
+        "id": 6646939088598597638,
+        "username": "simplyivee",
+        "name": "Ivee Kait",
+        "signature": "📍ORL, FL 🇵🇷• 23 • ✞ Romans 10:17\nBuiz Inq : richard.cooler.mgmt@gmail.com",
+        "create_time": 1547611973,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "target",
+            "id": 34582,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "challenege",
+            "id": 95172,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "shopping",
+            "id": 9593,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "bff",
+            "id": 6304,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Do you have an awesome BFF?"
+        },
+        {
+            "name": "prank",
+            "id": 9122,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "favoritecolor",
+            "id": 264444,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "primedaydreamdeals",
+            "id": null,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": null
+        }
+    ]
+}
