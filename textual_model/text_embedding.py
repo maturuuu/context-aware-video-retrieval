@@ -65,11 +65,6 @@ def safe_parse_list_field(x):
     return [s]
 
 def infer_label_from_filename(base):
-    """
-    Infer class label from filename by taking prefix before first separator.
-    E.g. 'airball_1' -> 'airball', 'freewill-2.mp4' -> 'freewill'
-    This uses filename *data* automatically (no hard-coded labels).
-    """
     if not base:
         return ""
     tokens = re.split(r'[_\-\s]+', base)
