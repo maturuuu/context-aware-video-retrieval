@@ -207,7 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 # AUDIO: ignore output folders
-proc_out/
 proc_out_32kHz/
 embeddings_out/
 
