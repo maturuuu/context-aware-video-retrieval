@@ -1,0 +1,10 @@
+{
+  "query_id": "airball_1",
+  "condition_name": "visual_plus_audio",
+  "context_video_paths": [
+    "media\\airball_8.mp4",
+    "media\\airball_3.mp4",
+    "media\\where_1.mp4"
+  ],
+  "annotation_text": "This video is a comedic skit about a misunderstanding between a couple. After a woman tells her partner that she loves vintage bags, he misinterprets her meaning and thinks she just likes any old bags. The video ends with the humorous reveal of him having given her a massive, overwhelming collection of various old handbags, a well-intentioned gesture that completely missed the mark."
+}

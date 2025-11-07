@@ -1,16 +1,60 @@
-# python compareEmbeddings.py --query "where_2" --model "resnet" --embeddings_dir "C:/Users/Shanette/Downloads/COLLEGE/CSST Y4-T1/THS-ST2/visual_embeddings"   
-
 import numpy as np
 import argparse
 from pathlib import Path
 from sklearn.metrics.pairwise import cosine_similarity
 import sys
+import os
+from pydrive2.auth import GoogleAuth
+from pydrive2.drive import GoogleDrive
+from tqdm import tqdm
+
+# --- PYDRIVE AUTHENTICATION ---
+# Assumes 'client_secrets.json' is in the parent folder
+os.chdir("..") # Go up from 'visual_model' to 'context-aware-video-retrieval'
+gauth = GoogleAuth()
+gauth.LocalWebserverAuth()
+drive = GoogleDrive(gauth)
+print(f"Authenticated with Google Drive. Current dir: {os.getcwd()}")
+# -----------------------------
 
 def load_embedding(path: Path) -> np.ndarray:
     """Loads a .npy file and returns it as a numpy array."""
     if not path.exists():
         raise FileNotFoundError(f"Embedding file not found: {path}")
     return np.load(path)
+
+def sync_embeddings_from_drive(folder_id, local_dir: Path):
+    """
+    Downloads any .npy files from Google Drive that are not
+    already present in the local cache directory.
+    """
+    local_dir.mkdir(parents=True, exist_ok=True)
+    print(f"Syncing embeddings from GDrive to local cache: '{local_dir.name}'...")
+    
+    # Get list of local files
+    local_files = {f.name for f in local_dir.glob('*.npy')}
+    
+    # Get list of remote files
+    query = f"'{folder_id}' in parents and trashed=false"
+    remote_files = drive.ListFile({'q': query}).GetList()
+    
+    # Filter for .npy files that need to be downloaded
+    files_to_download = [
+        f for f in remote_files 
+        if f['title'].endswith('.npy') and f['title'] not in local_files
+    ]
+
+    if not files_to_download:
+        print("Local cache is already up to date.")
+        return
+
+    print(f"Downloading {len(files_to_download)} new embedding files...")
+    for file in tqdm(files_to_download, desc="Downloading embeddings"):
+        local_path = local_dir / file['title']
+        try:
+            file.GetContentFile(str(local_path))
+        except Exception as e:
+            print(f"Warning: Failed to download {file['title']}: {e}")
 
 def main():
     parser = argparse.ArgumentParser(
@@ -29,11 +73,19 @@ def main():
         choices=['clip', 'resnet'], 
         help="The model type to compare."
     )
+    # --- ARGUMENT CHANGED ---
     parser.add_argument(
-        "--embeddings_dir", 
-        type=Path, 
+        "--embeddings_folder_id", 
+        type=str, 
         required=True, 
-        help="Directory where the .npy embedding files are stored."
+        help="Google Drive Folder ID where embeddings are stored."
+    )
+    # --- NEW ARGUMENT ---
+    parser.add_argument(
+        "--local_cache_dir", 
+        type=Path, 
+        default=Path("./gdrive_embeddings_cache"), 
+        help="Local directory to cache/download embeddings."
     )
     parser.add_argument(
         "--threshold", 
@@ -43,14 +95,18 @@ def main():
     )
     args = parser.parse_args()
 
+    # --- NEW: Sync files from Google Drive ---
+    sync_embeddings_from_drive(args.embeddings_folder_id, args.local_cache_dir)
+    
+    # --- MODIFIED: Use the local_cache_dir path ---
     suffix = f"_{args.model}.npy"
-    all_embedding_files = list(args.embeddings_dir.glob(f"*{suffix}"))
+    all_embedding_files = list(args.local_cache_dir.glob(f"*{suffix}"))
 
     if not all_embedding_files:
-        print(f"[ERROR] No embeddings found with suffix '*{suffix}' in {args.embeddings_dir}")
+        print(f"[ERROR] No embeddings found with suffix '*{suffix}' in {args.local_cache_dir}")
         sys.exit(1)
 
-    query_file_path = args.embeddings_dir / (args.query + suffix)
+    query_file_path = args.local_cache_dir / (args.query + suffix)
     try:
         query_vec = load_embedding(query_file_path)
         query_vec = query_vec.reshape(1, -1) 
