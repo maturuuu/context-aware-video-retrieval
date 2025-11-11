@@ -1,0 +1,129 @@
+{
+    "video_metadata": {
+        "id": 7358112217222368518,
+        "time_created": "2024-04-15T23:13:27",
+        "author_id": 7015562131274400795,
+        "description": "WHERE??? marketing edition 🫣  #wheretrend #wherechallenge #marketingagencylife ",
+        "hashtags": [
+            "wheretrend",
+            "wherechallenge",
+            "marketingagencylife"
+        ],
+        "mentions": null,
+        "music_id": 7358112233237940998,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [
+            "where trend marketing",
+            "where challenge marketing",
+            "wheretrend",
+            "gen z marketing trends"
+        ],
+        "diggcount": 2881,
+        "sharecount": 2647,
+        "commentcount": 33,
+        "playcount": 184600,
+        "collectcount": 2176,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": false,
+        "stitch_enabled": false,
+        "stickers_on_item": null,
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": null,
+        "diversification_id": null,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7358112217222368518,
+        "filepath": null,
+        "duration": 16,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -14.2,
+        "volume_peak": 0.92257,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": null,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7358112233237940998,
+        "title": "original sound - thejulysocial",
+        "author_name": "thejulysocial",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 16.27425,
+            "preciseShootDuration": 16.27425,
+            "preciseAuditionDuration": 16.27425,
+            "preciseVideoDuration": 16.27425
+        }
+    },
+    "author_metadata": {
+        "id": 7015562131274400795,
+        "username": "thejulysocial",
+        "name": "thejulysocial",
+        "signature": "Helping small businesses with better marketing strategies via organic growth 🚀",
+        "create_time": 1633439098,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 3,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "wheretrend",
+            "id": 7168768551813054469,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "wherechallenge",
+            "id": 5533752,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "marketingagencylife",
+            "id": 1676783515917313,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

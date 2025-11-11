@@ -1,0 +1,4 @@
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+pip install matplotlib ffmpeg-python librosa panns-inference
+pip install tqdm opencv-python
+pip install "numpy<2.3" wordninja openai faster-whisper easyocr ftfy wordfreq wordsegment pyspellchecker pandas transformers

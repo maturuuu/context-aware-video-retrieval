@@ -1,0 +1,127 @@
+{
+    "video_metadata": {
+        "id": 7540289472752291095,
+        "time_created": "2025-08-19T21:34:15",
+        "author_id": 6951007126584853510,
+        "description": "#fyp #simranbagria  Hoodie: @In Print We Trust ",
+        "hashtags": [
+            "fyp",
+            "simranbagria"
+        ],
+        "mentions": [
+            "7092168245326758917"
+        ],
+        "music_id": 7096642484738640683,
+        "schedule_time": 0,
+        "location_created": "GB",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 634,
+        "sharecount": 10,
+        "commentcount": 0,
+        "playcount": 12000,
+        "collectcount": 14,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": false,
+        "stitch_enabled": false,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "POV: you remember you have free will "
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Comedy",
+            "Performance"
+        ],
+        "diversification_id": 10003,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7540289472752291095,
+        "filepath": null,
+        "duration": 6,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -27,
+        "volume_peak": 0.22909,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7096642484738640683,
+        "title": "Hi",
+        "author_name": "temoc #2",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 14.576,
+            "preciseShootDuration": 14.576,
+            "preciseAuditionDuration": 14.576,
+            "preciseVideoDuration": 14.576
+        }
+    },
+    "author_metadata": {
+        "id": 6951007126584853510,
+        "username": "simranbagria",
+        "name": "Simran Bagria✨",
+        "signature": "vehleya de kaam\n💌 simk.enquiries@gmail.com",
+        "create_time": 1618407722,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 3,
+        "stitch_setting": 3,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 3,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "simranbagria",
+            "id": 7407495546254852128,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

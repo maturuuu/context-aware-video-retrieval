@@ -1,0 +1,198 @@
+{
+    "video_metadata": {
+        "id": 7489696341958954245,
+        "time_created": "2025-04-05T13:27:12",
+        "author_id": 6808722514023351297,
+        "description": "Should've booked that viewing right away! 📦  Visit www.presello.com! Book a Viewing Now - https://www.presello.com/ book-a-viewing/ Enlist with Presello - https://www.presello.com/ sell-my-property/ ☎️ Call our Hotline- 0917 1115788 Browse more properties: www.presello.com #Presello #presellolistings #presellonewlisting #hotlistings #houseforsale #houseandlotforsale #houseandlotPhilippines #newlistings #realestatelife #realeastate",
+        "hashtags": [
+            "presello",
+            "presellolistings",
+            "presellonewlisting",
+            "hotlistings",
+            "houseforsale",
+            "houseandlotforsale",
+            "houseandlotphilippines",
+            "newlistings",
+            "realestatelife",
+            "realeastate"
+        ],
+        "mentions": null,
+        "music_id": 6927016038370428930,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [
+            "presello house",
+            "presello official",
+            "waiting for the box to hit me",
+            "house tour presello",
+            "are you waiting for that box to hit me",
+            "house sale tour",
+            "presello condo tour",
+            "house tour",
+            "are you waiting for that box to hit me filipino",
+            "house and lot with furniture"
+        ],
+        "diggcount": 2747,
+        "sharecount": 708,
+        "commentcount": 31,
+        "playcount": 93100,
+        "collectcount": 482,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": null,
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": null,
+        "diversification_id": null,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7489696341958954245,
+        "filepath": null,
+        "duration": 11,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -23.3,
+        "volume_peak": 1,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 1,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 6927016038370428930,
+        "title": "Funny",
+        "author_name": "Gold-Tiger",
+        "original": false,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 60,
+            "preciseShootDuration": 60,
+            "preciseAuditionDuration": 60,
+            "preciseVideoDuration": 6000
+        }
+    },
+    "author_metadata": {
+        "id": 6808722514023351297,
+        "username": "presello.official",
+        "name": "Presello",
+        "signature": "☎️ Presello Hotline: +639171115788",
+        "create_time": 1585275854,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "presello",
+            "id": 1662309717395462,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "presellolistings",
+            "id": 7066114258039537669,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "presellonewlisting",
+            "id": 7221114709703917573,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "hotlistings",
+            "id": 1665905853121541,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "houseforsale",
+            "id": 11953440,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "houseandlotforsale",
+            "id": 1661164875049986,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "houseandlotphilippines",
+            "id": 1691912259659777,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "newlistings",
+            "id": 1640505312030726,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "realestatelife",
+            "id": 20340310,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "realeastate",
+            "id": 55811027,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}
