@@ -1,0 +1,154 @@
+{
+    "video_metadata": {
+        "id": 7479268371700223240,
+        "time_created": "2025-03-08T11:01:17",
+        "author_id": 6991659456766526470,
+        "description": "Im not safe if the Philippine kidnappers did this method #fyp #trend #cars #hotwheels #mattel ",
+        "hashtags": [
+            "fyp",
+            "trend",
+            "cars",
+            "hotwheels",
+            "mattel"
+        ],
+        "mentions": null,
+        "music_id": 7478252516820388624,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 33,
+        "sharecount": 6,
+        "commentcount": 0,
+        "playcount": 672,
+        "collectcount": 4,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "How to kidnap me\n",
+                    "Free tutorial"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Toys & Collectables",
+            "Daily Life",
+            "Lifestyle"
+        ],
+        "diversification_id": 10050,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7479268371700223240,
+        "filepath": null,
+        "duration": 7,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -31.9,
+        "volume_peak": 0.09333,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7478252516820388624,
+        "title": "original sound - Bypcollection95",
+        "author_name": "Bypcollection95",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 7.732188,
+            "preciseShootDuration": 7.732188,
+            "preciseAuditionDuration": 7.732188,
+            "preciseVideoDuration": 7.732188
+        }
+    },
+    "author_metadata": {
+        "id": 6991659456766526470,
+        "username": "skylar_diecast",
+        "name": "SKYLAR DIECAST",
+        "signature": "Where To Buy\nFb:Jaden Matthew Lemus/Deeraj Toys",
+        "create_time": 1712364799,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "trend",
+            "id": 44895,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "cars",
+            "id": 7953,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "hotwheels",
+            "id": 16706,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "mattel",
+            "id": 2700461,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

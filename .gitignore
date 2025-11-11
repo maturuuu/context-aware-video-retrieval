@@ -144,9 +144,12 @@ venv311/
 .venv311
 meta/
 metaReal/
+metaDemo/
+annotations/
 ENV/
 env.bak/
 venv.bak/
+env.txt
 
 # Spyder project settings
 .spyderproject

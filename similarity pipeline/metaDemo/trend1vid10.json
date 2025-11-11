@@ -1,0 +1,112 @@
+{
+    "video_metadata": {
+        "id": 7374153120483478827,
+        "time_created": "2024-05-29T04:40:23",
+        "author_id": 6699228523615716357,
+        "description": "my roommates watching the security cameras rn 👁️👄👁️ ",
+        "hashtags": [],
+        "mentions": null,
+        "music_id": 6939004197580983045,
+        "schedule_time": 0,
+        "location_created": "US",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 4244,
+        "sharecount": 193,
+        "commentcount": 28,
+        "playcount": 50300,
+        "collectcount": 177,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "POV: \nYou randomly remember you have free will "
+                ],
+                "stickerType": 4
+            },
+            {
+                "stickerText": [
+                    "Pov: Randomly remembering you have free will"
+                ],
+                "stickerType": 9
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Diary & VLOG",
+            "Daily Life",
+            "Lifestyle"
+        ],
+        "diversification_id": 10014,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7374153120483478827,
+        "filepath": null,
+        "duration": 22,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -28.1,
+        "volume_peak": 0.21878,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 6939004197580983045,
+        "title": "Adopt Me Night soundtrack",
+        "author_name": "adopt.me.soundtrack",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 60,
+            "preciseShootDuration": 60,
+            "preciseAuditionDuration": 60,
+            "preciseVideoDuration": 60
+        }
+    },
+    "author_metadata": {
+        "id": 6699228523615716357,
+        "username": "k.wamp",
+        "name": "Karissa Wampler 🤯",
+        "signature": "Just posting my intrusive thoughts 😍\nCOLLABS: Email karissa@alorasociety.com",
+        "create_time": 1565902949,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": []
+}

@@ -1,0 +1,138 @@
+{
+    "video_metadata": {
+        "id": 7547485881486085406,
+        "time_created": "2025-09-08T07:00:17",
+        "author_id": 6809274991239398405,
+        "description": "girls night is gonna do it every time🙂‍↕️  thank you for the inspo @_taytay97__ !!!! #girlsnight #winetasting #winepairing",
+        "hashtags": [
+            "girlsnight",
+            "winetasting",
+            "winepairing"
+        ],
+        "mentions": [
+            "6805482480020341766"
+        ],
+        "music_id": 6940175820069537793,
+        "schedule_time": 0,
+        "location_created": "US",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 138,
+        "sharecount": 14,
+        "commentcount": 5,
+        "playcount": 1303,
+        "collectcount": 7,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "when you remember you're \nadults with free will and can \ndo wine tastings at home",
+                    "the aftermath"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Drinks",
+            "Food & Drink",
+            "Lifestyle"
+        ],
+        "diversification_id": 10042,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7547485881486085406,
+        "filepath": null,
+        "duration": 22,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -16.9,
+        "volume_peak": 0.6166,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 1,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 6940175820069537793,
+        "title": "Oh Honey",
+        "author_name": "Angelo Ferreri",
+        "original": false,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 60.047,
+            "preciseShootDuration": 60,
+            "preciseAuditionDuration": 60,
+            "preciseVideoDuration": 60
+        }
+    },
+    "author_metadata": {
+        "id": 6809274991239398405,
+        "username": "gracecobble",
+        "name": "Grace🤸🏻",
+        "signature": "nonprofit girly with a lot of hobbies\n💌cobblegrace@gmail.com\nst. louis",
+        "create_time": 1585451185,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "girlsnight",
+            "id": 12144,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "winetasting",
+            "id": 28304,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "winepairing",
+            "id": 1621155317959685,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "video_metadata": {
+        "id": 7549305642226421005,
+        "time_created": "2025-09-13T04:42:02",
+        "author_id": 7106286962503894059,
+        "description": "#pov #justgirlythings #girlythings #bestiegoals #friendsreunion ",
+        "hashtags": [
+            "pov",
+            "justgirlythings",
+            "girlythings",
+            "bestiegoals",
+            "friendsreunion"
+        ],
+        "mentions": null,
+        "music_id": 6815712093161916417,
+        "schedule_time": 0,
+        "location_created": "US",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 183,
+        "sharecount": 39,
+        "commentcount": 3,
+        "playcount": 4951,
+        "collectcount": 4,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "“I’m having so \nmuch fun”",
+                    "“but it just food & coffee”",
+                    "“but we’re together”"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Diary & VLOG",
+            "Daily Life",
+            "Lifestyle"
+        ],
+        "diversification_id": 10014,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7549305642226421005,
+        "filepath": null,
+        "duration": 5,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -19.6,
+        "volume_peak": 0.31989,
+        "has_original_audio": false,
+        "enable_audio_caption": false,
+        "no_caption_reason": 2,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 6815712093161916417,
+        "title": "Western Music: Arizona Dreaming",
+        "author_name": "Piero Piccioni",
+        "original": false,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 30.512,
+            "preciseShootDuration": 30.512,
+            "preciseAuditionDuration": 30.512,
+            "preciseVideoDuration": 60
+        }
+    },
+    "author_metadata": {
+        "id": 7106286962503894059,
+        "username": "soltanaslife",
+        "name": "soltanaslife",
+        "signature": "21 / VA / DMV\nlifestyle | fashion \n<3 🇧🇩\n💌 life.of.soltana@gmail.com",
+        "create_time": 1654561496,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "pov",
+            "id": 180049,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Show us your point of view!"
+        },
+        {
+            "name": "justgirlythings",
+            "id": 59913,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "girlythings",
+            "id": 233368,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "bestiegoals",
+            "id": 115056,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Where would we be without friendship? In honor of National Best Friends Day on June 8th, get your coolest pal and create your best musical ever!!!!👭"
+        },
+        {
+            "name": "friendsreunion",
+            "id": null,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": null
+        }
+    ]
+}
