@@ -24,7 +24,7 @@ trend2vid8: 0.6748
 trend2vid9: 0.0000
 trend2vid10: 0.7313
 
-Trend 3: vid 3
+Trend 3: vid 4
 Scores:
 trend3vid1: 0.5845
 trend3vid2: 0.5828
