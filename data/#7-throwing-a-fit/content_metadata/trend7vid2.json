@@ -1,0 +1,163 @@
+{
+    "video_metadata": {
+        "id": 7534307314237443335,
+        "time_created": "2025-08-03T18:40:24",
+        "author_id": 6984095074381120514,
+        "description": "love my new sunday dress by @rihoas_official 💕 use my code “Louie” for 20% off 🤗 #ootd #outfitideas #fashion #elegantstyle ",
+        "hashtags": [
+            "ootd",
+            "outfitideas",
+            "fashion",
+            "elegantstyle"
+        ],
+        "mentions": [
+            "7038431605610251269"
+        ],
+        "music_id": 7519237216064817942,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [
+            "Outfit Ideas",
+            "rihoas sunday dress",
+            "elegant dress rihoas",
+            "dress elegant",
+            "elegant outfits",
+            "rihoas official",
+            "ootd dress elegant",
+            "ootd elegant outfit",
+            "Dress For Women",
+            "ootd outfit for women dress elegant"
+        ],
+        "diggcount": 14900,
+        "sharecount": 525,
+        "commentcount": 76,
+        "playcount": 251700,
+        "collectcount": 1520,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": false,
+        "stitch_enabled": false,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "“sorry we’re late,\nmy sister was throwing a fit”"
+                ],
+                "stickerType": 4
+            },
+            {
+                "stickerText": [
+                    "sunday dress idea"
+                ],
+                "stickerType": 9
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Outfit",
+            "Outfit",
+            "Beauty & Style"
+        ],
+        "diversification_id": 10029,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7534307314237443335,
+        "filepath": null,
+        "duration": 14,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -27.9,
+        "volume_peak": 0.13646,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7519237216064817942,
+        "title": "Originalton",
+        "author_name": "donjeta",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 24.607313,
+            "preciseShootDuration": 24.607313,
+            "preciseAuditionDuration": 24.607313,
+            "preciseVideoDuration": 24.607313
+        }
+    },
+    "author_metadata": {
+        "id": 6984095074381120514,
+        "username": "louiemrn",
+        "name": "louie",
+        "signature": "passion for fashion\n💌 contact: louiemrn.collab@gmail.com",
+        "create_time": 1626111731,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 3,
+        "stitch_setting": 3,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 3,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "ootd",
+            "id": 13251,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "What's your #OOTD?"
+        },
+        {
+            "name": "outfitideas",
+            "id": 364208,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Need outfit inspo? We've got you covered"
+        },
+        {
+            "name": "fashion",
+            "id": 11885,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "elegantstyle",
+            "id": 12565584,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

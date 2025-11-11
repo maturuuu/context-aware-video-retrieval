@@ -1,0 +1,293 @@
+{
+    "video_metadata": {
+        "id": 7399320768691145990,
+        "time_created": "2024-08-05T00:23:42",
+        "author_id": 6907830702966326278,
+        "description": "Just us being dululu (we saw no one) #kcon2024 #kcon #kconla #la #losangeles #santamonica #where #beachday #wherechallenge #wheretrend #kpop #kpopfyp #kpoptrend #kconla2024 #atiny #ateez #hongjoong #heesung #yunho #keeho @KCON official @LIA @kayla :3 @tejé THEE Hotteok ",
+        "hashtags": [
+            "kcon2024",
+            "kcon",
+            "kconla",
+            "la",
+            "losangeles",
+            "santamonica",
+            "where",
+            "beachday",
+            "wherechallenge",
+            "wheretrend",
+            "kpop",
+            "kpopfyp",
+            "kpoptrend",
+            "kconla2024",
+            "atiny",
+            "ateez",
+            "hongjoong",
+            "heesung",
+            "yunho",
+            "keeho"
+        ],
+        "mentions": [
+            "6925272517725209602",
+            "6807094585094063109",
+            "10314947",
+            "6619830800694509573"
+        ],
+        "music_id": 7343205279093885728,
+        "schedule_time": 0,
+        "location_created": "CA",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 33,
+        "sharecount": 7,
+        "commentcount": 3,
+        "playcount": 454,
+        "collectcount": 1,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "POV: you’re in LA for Kcon"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Diary & VLOG",
+            "Daily Life",
+            "Lifestyle"
+        ],
+        "diversification_id": 10014,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7399320768691145990,
+        "filepath": null,
+        "duration": 13,
+        "height": 1920,
+        "width": 1080,
+        "ratio": 1080,
+        "volume_loudness": -22.2,
+        "volume_peak": 0.46774,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7343205279093885728,
+        "title": "original sound",
+        "author_name": "busterz",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 16.300375,
+            "preciseShootDuration": 16.300375,
+            "preciseAuditionDuration": 16.300375,
+            "preciseVideoDuration": 16.300375
+        }
+    },
+    "author_metadata": {
+        "id": 6907830702966326278,
+        "username": "maki3nzie",
+        "name": "Mack",
+        "signature": "NOBODY tell HJ I’m a multi 🔫 (FLOP ERA)\n🇨🇦🍁🇨🇦",
+        "create_time": 1608354741,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "kcon2024",
+            "id": 7268959774401069099,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "kcon",
+            "id": 290989,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "kconla",
+            "id": 7072601,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "la",
+            "id": 8126,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "losangeles",
+            "id": 9602,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "santamonica",
+            "id": 10944,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "where",
+            "id": 12676,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "beachday",
+            "id": 10973,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Grab your towel and hit the sand for a #BeachDay."
+        },
+        {
+            "name": "wherechallenge",
+            "id": 5533752,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "wheretrend",
+            "id": 7168768551813054469,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "kpop",
+            "id": 6985,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "No matter who you stan, we're here for all things #KPop."
+        },
+        {
+            "name": "kpopfyp",
+            "id": 1636619391693830,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "kpoptrend",
+            "id": 74817488,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "kconla2024",
+            "id": 7268853860305747974,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "atiny",
+            "id": 61543559,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "ateez",
+            "id": 1605018319764485,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "hongjoong",
+            "id": 1602202166011910,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "heesung",
+            "id": 1504472,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "yunho",
+            "id": 15430632,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "keeho",
+            "id": 1620819093131269,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "video_metadata": {
+        "id": 7514645395138563336,
+        "time_created": "2025-06-11T19:02:08",
+        "author_id": 6783632977564271621,
+        "description": "just a little ‘side hustle’ #holyairball ",
+        "hashtags": [
+            "holyairball"
+        ],
+        "mentions": null,
+        "music_id": 7466220526407535403,
+        "schedule_time": 0,
+        "location_created": "AU",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 109,
+        "sharecount": 4,
+        "commentcount": 2,
+        "playcount": 1781,
+        "collectcount": 5,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": null,
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Fitness",
+            "Fitness & Health",
+            "Sport & Outdoor"
+        ],
+        "diversification_id": 10061,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7514645395138563336,
+        "filepath": null,
+        "duration": 12,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -22.3,
+        "volume_peak": 0.40272,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7466220526407535403,
+        "title": "ECE Marketing Airball",
+        "author_name": "EC Equine Marketing",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 18.416313,
+            "preciseShootDuration": 18.416313,
+            "preciseAuditionDuration": 18.416313,
+            "preciseVideoDuration": 18.416313
+        }
+    },
+    "author_metadata": {
+        "id": 6783632977564271621,
+        "username": "nicole.finianos",
+        "name": "Nicole Finianos",
+        "signature": "Nutritionist | Personal Trainer\nSydney | AUS",
+        "create_time": 1583201133,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 3,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "holyairball",
+            "id": 7396870312488337451,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

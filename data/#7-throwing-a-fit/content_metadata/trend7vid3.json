@@ -1,0 +1,172 @@
+{
+    "video_metadata": {
+        "id": 7541698829935054088,
+        "time_created": "2025-08-23T16:43:18",
+        "author_id": 6844900434110612482,
+        "description": "okay mister TDH 😎 #donnypangilinan #donnyfam #donny #fangirls #fyp  @Jinky Joyce @Nysa @Angelica Oriel @cyreneee ౨ৎ @keysiiii @serene @Donny Pangilinan ",
+        "hashtags": [
+            "donnypangilinan",
+            "donnyfam",
+            "donny",
+            "fangirls",
+            "fyp"
+        ],
+        "mentions": [
+            "115033577364295680",
+            "6803601177880642561",
+            "6568652952146903041",
+            "6698567178495149057",
+            "26953251",
+            "77097134847614976",
+            "6805019861317944321"
+        ],
+        "music_id": 7519237216064817942,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [
+            "donny pangilinan",
+            "donny pangilinan sorry throwing a fit",
+            "donny",
+            "donny pangilinan edit",
+            "Donny Pangilinan And Belle Mariano",
+            "donny speaking",
+            "donny issue with girl",
+            "christy ni donny",
+            "belle and donny"
+        ],
+        "diggcount": 59500,
+        "sharecount": 1522,
+        "commentcount": 142,
+        "playcount": 560500,
+        "collectcount": 1349,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "\"sorry I'm late,\nmy girls were throwing a fit!\"",
+                    "💅🏻 his girls ✨"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Celebrity Clips & Variety Show",
+            "Entertainment Culture",
+            "Entertainment"
+        ],
+        "diversification_id": 10088,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7541698829935054088,
+        "filepath": null,
+        "duration": 9,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -27.5,
+        "volume_peak": 0.12445,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7519237216064817942,
+        "title": "Originalton",
+        "author_name": "donjeta",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 24.607313,
+            "preciseShootDuration": 24.607313,
+            "preciseAuditionDuration": 24.607313,
+            "preciseVideoDuration": 24.607313
+        }
+    },
+    "author_metadata": {
+        "id": 6844900434110612482,
+        "username": "nacho.bizz",
+        "name": "𐙚 cat ☻",
+        "signature": "pretty girl rock",
+        "create_time": 1593773092,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "donnypangilinan",
+            "id": 57872902,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "donnyfam",
+            "id": 63799431,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "donny",
+            "id": 658843,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fangirls",
+            "id": 93137,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

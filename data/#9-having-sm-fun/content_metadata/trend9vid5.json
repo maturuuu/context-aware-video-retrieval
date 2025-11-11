@@ -1,0 +1,137 @@
+{
+    "video_metadata": {
+        "id": 7510441723089276206,
+        "time_created": "2025-05-31T11:10:12",
+        "author_id": 7494729573185225759,
+        "description": "I like just hanging out (as long as it’s with you) #besties #gymfriends #capcut ",
+        "hashtags": [
+            "besties",
+            "gymfriends",
+            "capcut"
+        ],
+        "mentions": null,
+        "music_id": 6815712093161916417,
+        "schedule_time": 0,
+        "location_created": "US",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 79,
+        "sharecount": 2,
+        "commentcount": 2,
+        "playcount": 4856,
+        "collectcount": 4,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "I’m having so much fun!",
+                    "We’re just hanging out",
+                    "But we’re together!💖"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Diary & VLOG",
+            "Daily Life",
+            "Lifestyle"
+        ],
+        "diversification_id": 10014,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7510441723089276206,
+        "filepath": null,
+        "duration": 10,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -19.1,
+        "volume_peak": 0.38905,
+        "has_original_audio": false,
+        "enable_audio_caption": false,
+        "no_caption_reason": 2,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 6815712093161916417,
+        "title": "Western Music: Arizona Dreaming",
+        "author_name": "Piero Piccioni",
+        "original": false,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 30.512,
+            "preciseShootDuration": 30.512,
+            "preciseAuditionDuration": 30.512,
+            "preciseVideoDuration": 60
+        }
+    },
+    "author_metadata": {
+        "id": 7494729573185225759,
+        "username": "un.dia.fuerte",
+        "name": "un.dia.fuerte",
+        "signature": "Powerlifter → Bodybuilder.",
+        "create_time": 1745002900,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 1,
+        "stitch_setting": 1,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 3,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "besties",
+            "id": 8669,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Whether you've known each other from day 1, or you've just met, here's to all the #Besties."
+        },
+        {
+            "name": "gymfriends",
+            "id": 5354545,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "capcut",
+            "id": 1663935709411330,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "CapCut is a new, easy-to-use video editing tool designed for mobile platforms. CapCut provides users with a wide range of video editing functions, filters, audio &amp; visual effects, video templates, while keeping it free of charge and ads-free. Everyone can be a creator by using CapCut.  \n\nStart creating your cool videos today: \nhttps://capcut.onelink.me/XKqI/228cad85"
+        }
+    ]
+}

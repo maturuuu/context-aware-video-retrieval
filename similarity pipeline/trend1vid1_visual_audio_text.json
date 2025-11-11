@@ -1,0 +1,12 @@
+{
+  "query_id": "trend1vid1",
+  "condition_name": "visual_audio_text",
+  "context_video_paths": [
+    "media\\trend1vid3.mp4",
+    "media\\trend1vid5.mp4",
+    "media\\trend1vid4.mp4",
+    "media\\trend10vid5.mp4",
+    "media\\trend1vid2.mp4"
+  ],
+  "annotation_text": "This video is part of an internet trend where people act on a sudden, chaotic impulse after \"remembering they have free will.\" In the video, a man in a kitchen takes a carton of milk from the refrigerator. He then deliberately drops the carton on the floor, causing it to burst open and spill everywhere, illustrating the idea of doing something completely nonsensical simply because he has the freedom to do so."
+}

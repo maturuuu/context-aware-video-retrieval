@@ -1,0 +1,233 @@
+{
+    "video_metadata": {
+        "id": 7510964090185993492,
+        "time_created": "2025-06-01T20:56:52",
+        "author_id": 6578030118307086337,
+        "description": "Prime era… I might just study forever? #holyairball #fyp #foryou #trending #graduation #student #academicvalidation #1st #studentnurse #studytok #uni #college ",
+        "hashtags": [
+            "holyairball",
+            "fyp",
+            "foryou",
+            "trending",
+            "graduation",
+            "student",
+            "academicvalidation",
+            "1st",
+            "studentnurse",
+            "studytok",
+            "uni",
+            "college"
+        ],
+        "mentions": null,
+        "music_id": 7466220526407535403,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [
+            "told them i am an honor student",
+            "valedictorian",
+            "preparatory valedictorian",
+            "academic validation student",
+            "honor student",
+            "studytok academic",
+            "Academic Validation",
+            "studytok validation",
+            "studytok nursing student",
+            "grade 10 valedictorian"
+        ],
+        "diggcount": 245100,
+        "sharecount": 6527,
+        "commentcount": 1304,
+        "playcount": 1700000,
+        "collectcount": 10550,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "told them I am \nan honor student",
+                    "they said “oh, so your grades\nare in a line of 9s?”",
+                    "Holy airball",
+                    "Preparatory Valedictorian",
+                    "Grade 6 Valedictorian",
+                    "Grade 10 Valedictorian",
+                    "Grade 12 Valedictorian"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "School Education",
+            "Education",
+            "Culture & Education & Technology"
+        ],
+        "diversification_id": 10068,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7510964090185993492,
+        "filepath": null,
+        "duration": 17,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -21.7,
+        "volume_peak": 0.40738,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7466220526407535403,
+        "title": "ECE Marketing Airball",
+        "author_name": "EC Equine Marketing",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 18.416313,
+            "preciseShootDuration": 18.416313,
+            "preciseAuditionDuration": 18.416313,
+            "preciseVideoDuration": 18.416313
+        }
+    },
+    "author_metadata": {
+        "id": 6578030118307086337,
+        "username": "gcsuico",
+        "name": "Charlie Suico",
+        "signature": "IG: @guinalie",
+        "create_time": 1531541886,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "holyairball",
+            "id": 7396870312488337451,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "foryou",
+            "id": 42164,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "trending",
+            "id": 20105,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Discover the top viral trends, sounds and effects of the week! 🔥"
+        },
+        {
+            "name": "graduation",
+            "id": 23629,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Congratulations 🥳 You made it! Share your best #graduation moments with us."
+        },
+        {
+            "name": "student",
+            "id": 296911,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "academicvalidation",
+            "id": 1690727641597957,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "1st",
+            "id": 4965,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "studentnurse",
+            "id": 13642830,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "studytok",
+            "id": 1621382854945957,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Take a seat and study with TikTok."
+        },
+        {
+            "name": "uni",
+            "id": 57019,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "college",
+            "id": 4278,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Whether you're heading to class or living it up at the dorms, here's to all things #College."
+        }
+    ]
+}

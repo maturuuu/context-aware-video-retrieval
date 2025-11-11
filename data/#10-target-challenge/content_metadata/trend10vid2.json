@@ -1,0 +1,135 @@
+{
+    "video_metadata": {
+        "id": 7286844552701316357,
+        "time_created": "2023-10-06T21:58:30",
+        "author_id": 6873954617550930945,
+        "description": "By making someone smile you could win a R2000 SPAR voucher💃🏽  How to participate:  1️⃣ Create a video that showcases how you make someone smile (It could be surprising someone with flowers or with their favorite meal, or just making them laugh🙌🏽)  2️⃣ Use the hashtag #SpreadSmiles and hashtag your favorite SPAR.  3️⃣ A winner will be chosen weekly for a R2000 SPAR voucher!😁 Winners will be announced on the SPAR Inland Facebook page. Duet my video and share how you #SpreadSmiles  #SPARInland ",
+        "hashtags": [
+            "spreadsmiles",
+            "spreadsmiles",
+            "sparinland"
+        ],
+        "mentions": null,
+        "music_id": 7286844572729772806,
+        "schedule_time": 0,
+        "location_created": "ZA",
+        "is_ad": true,
+        "suggested_words": [],
+        "diggcount": 35700,
+        "sharecount": 2088,
+        "commentcount": 151,
+        "playcount": 888000,
+        "collectcount": 1943,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "Buying eachothers favourite things"
+                ],
+                "stickerType": 9
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Non-Video Games",
+            "Games",
+            "Entertainment"
+        ],
+        "diversification_id": 10057,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7286844552701316357,
+        "filepath": null,
+        "duration": 50,
+        "height": 854,
+        "width": 480,
+        "ratio": 480,
+        "volume_loudness": -21.7,
+        "volume_peak": 0.92257,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 1,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7286844572729772806,
+        "title": "original sound",
+        "author_name": "SHIV",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 50.860374,
+            "preciseShootDuration": 50.860374,
+            "preciseAuditionDuration": 50.860374,
+            "preciseVideoDuration": 50.860374
+        }
+    },
+    "author_metadata": {
+        "id": 6873954617550930945,
+        "username": "shiv_sewlal",
+        "name": "SHIV",
+        "signature": "My life with Allergies, Eczema & Asthma\n📩shivsewlal@gmail.com\n🇿🇦",
+        "create_time": 1600468743,
+        "verified": true,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "spreadsmiles",
+            "id": 886295,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "spreadsmiles",
+            "id": 886295,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "sparinland",
+            "id": 7283406595858726918,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

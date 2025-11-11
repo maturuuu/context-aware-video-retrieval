@@ -1,0 +1,139 @@
+{
+    "video_metadata": {
+        "id": 7541302079588011272,
+        "time_created": "2025-08-22T15:03:42",
+        "author_id": 6996913299259819010,
+        "description": "@matcha #adnu #shs ",
+        "hashtags": [
+            "adnu",
+            "shs"
+        ],
+        "mentions": [
+            "6986121513775072282"
+        ],
+        "music_id": 7519237216064817942,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [
+            "airia matcha",
+            "throwing a fit trend",
+            "matcha glow up",
+            "matcha shoes",
+            "your matcha girl",
+            "matcha juice",
+            "matcha girl just got rich",
+            "matcha powder drink",
+            "matcha chocolate",
+            "matcha starbucks"
+        ],
+        "diggcount": 70400,
+        "sharecount": 8011,
+        "commentcount": 74,
+        "playcount": 354400,
+        "collectcount": 3596,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": false,
+        "stitch_enabled": false,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "“sorry we’re late, the \ngirls were throwing a fit”"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Outfit",
+            "Outfit",
+            "Beauty & Style"
+        ],
+        "diversification_id": 10029,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7541302079588011272,
+        "filepath": null,
+        "duration": 10,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -27.6,
+        "volume_peak": 0.12735,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7519237216064817942,
+        "title": "Originalton",
+        "author_name": "donjeta",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 24.607313,
+            "preciseShootDuration": 24.607313,
+            "preciseAuditionDuration": 24.607313,
+            "preciseVideoDuration": 24.607313
+        }
+    },
+    "author_metadata": {
+        "id": 6996913299259819010,
+        "username": "yzhakane",
+        "name": "zy",
+        "signature": "",
+        "create_time": 1629124278,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 3,
+        "stitch_setting": 3,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "adnu",
+            "id": 30654286,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "shs",
+            "id": 241571,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

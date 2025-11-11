@@ -1,0 +1,130 @@
+{
+    "video_metadata": {
+        "id": 7347420388646849798,
+        "time_created": "2024-03-18T03:43:42",
+        "author_id": 6937588422244844549,
+        "description": "#wherechallenge #ourtypeschallenge #trend@@selinalunar @Lesedi ✨🏳️‍🌈 ",
+        "hashtags": [
+            "wherechallenge",
+            "ourtypeschallenge",
+            "trend"
+        ],
+        "mentions": [
+            "6980395140116956165",
+            "6950241826827092997"
+        ],
+        "music_id": 7347420392443104005,
+        "schedule_time": 0,
+        "location_created": "ZA",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 913,
+        "sharecount": 150,
+        "commentcount": 3,
+        "playcount": 70400,
+        "collectcount": 107,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": false,
+        "stitch_enabled": false,
+        "stickers_on_item": null,
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Comedy",
+            "Performance"
+        ],
+        "diversification_id": 10003,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7347420388646849798,
+        "filepath": null,
+        "duration": 13,
+        "height": 854,
+        "width": 480,
+        "ratio": 480,
+        "volume_loudness": -23.3,
+        "volume_peak": 0.33113,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7347420392443104005,
+        "title": "original sound",
+        "author_name": "just_katlego16",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 13.81875,
+            "preciseShootDuration": 13.81875,
+            "preciseAuditionDuration": 13.81875,
+            "preciseVideoDuration": 13.81875
+        }
+    },
+    "author_metadata": {
+        "id": 6937588422244844549,
+        "username": "just_katlego16",
+        "name": "just_katlego16",
+        "signature": "that girl that loves Jesus\nIG: its_justkatlego",
+        "create_time": 1617900690,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 1,
+        "duet_setting": 3,
+        "stitch_setting": 3,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "wherechallenge",
+            "id": 5533752,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "ourtypeschallenge",
+            "id": 1683878848411649,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "trend",
+            "id": 44895,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

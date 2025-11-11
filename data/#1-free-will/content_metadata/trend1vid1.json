@@ -1,0 +1,105 @@
+{
+    "video_metadata": {
+        "id": 7449499818063334699,
+        "time_created": "2024-12-18T05:44:03",
+        "author_id": 6642895221271117829,
+        "description": "Clean up was not fun 😭😭",
+        "hashtags": [],
+        "mentions": null,
+        "music_id": 7096642484738640683,
+        "schedule_time": 0,
+        "location_created": "US",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 791700,
+        "sharecount": 83700,
+        "commentcount": 3230,
+        "playcount": 5900000,
+        "collectcount": 41416,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "POV: You remember you have free will"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Comedy",
+            "Performance"
+        ],
+        "diversification_id": 10003,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7449499818063334699,
+        "filepath": null,
+        "duration": 5,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -26.8,
+        "volume_peak": 0.22909,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7096642484738640683,
+        "title": "Hi",
+        "author_name": "temoc #2",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 14.576,
+            "preciseShootDuration": 14.576,
+            "preciseAuditionDuration": 14.576,
+            "preciseVideoDuration": 14.576
+        }
+    },
+    "author_metadata": {
+        "id": 6642895221271117829,
+        "username": "modagoatt",
+        "name": "Mo🐐",
+        "signature": "Here to spread 😁 to the 🌍\n📧: modagoattent@gmail.com\n🇹🇬",
+        "create_time": 1546641508,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": []
+}

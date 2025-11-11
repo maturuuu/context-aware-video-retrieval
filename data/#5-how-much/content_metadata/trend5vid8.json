@@ -1,0 +1,106 @@
+{
+    "video_metadata": {
+        "id": 7298646672320597266,
+        "time_created": "2023-11-07T17:16:46",
+        "author_id": 6792508232352875525,
+        "description": "pov ",
+        "hashtags": [],
+        "mentions": null,
+        "music_id": 7206880477470198530,
+        "schedule_time": 0,
+        "location_created": "AU",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 887,
+        "sharecount": 11,
+        "commentcount": 1,
+        "playcount": 16800,
+        "collectcount": 28,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "pov: when ur younger sister is asking you out for lunch "
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Lip-sync",
+            "Lip-sync",
+            "Performance"
+        ],
+        "diversification_id": 10071,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7298646672320597266,
+        "filepath": null,
+        "duration": 5,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -10.2,
+        "volume_peak": 0.96605,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": null,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7206880477470198530,
+        "title": "original sound",
+        "author_name": "⚜️",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 5.668563,
+            "preciseShootDuration": 5.668563,
+            "preciseAuditionDuration": 5.668563,
+            "preciseVideoDuration": 5.668563
+        }
+    },
+    "author_metadata": {
+        "id": 6792508232352875525,
+        "username": "aqilahwf",
+        "name": "aqilahwf",
+        "signature": "🦋",
+        "create_time": 1581504404,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": []
+}

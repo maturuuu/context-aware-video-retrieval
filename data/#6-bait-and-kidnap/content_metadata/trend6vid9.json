@@ -1,0 +1,162 @@
+{
+    "video_metadata": {
+        "id": 7468781641809284398,
+        "time_created": "2025-02-08T04:47:53",
+        "author_id": 6936317488431268870,
+        "description": "ooh piece of candy! #fypppppppppppppp #jellycats #imjustagirl #relatable #real #girlthings ",
+        "hashtags": [
+            "fypppppppppppppp",
+            "jellycats",
+            "imjustagirl",
+            "relatable",
+            "real",
+            "girlthings"
+        ],
+        "mentions": null,
+        "music_id": 7121429930117843717,
+        "schedule_time": 0,
+        "location_created": "US",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 2200,
+        "sharecount": 243,
+        "commentcount": 12,
+        "playcount": 30700,
+        "collectcount": 201,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "how to successfully \nkidnap me: "
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Toys & Collectables",
+            "Daily Life",
+            "Lifestyle"
+        ],
+        "diversification_id": 10050,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7468781641809284398,
+        "filepath": null,
+        "duration": 9,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -28.2,
+        "volume_peak": 0.14289,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7121429930117843717,
+        "title": "original sound",
+        "author_name": "Shadowless",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 10.893,
+            "preciseShootDuration": 10.893,
+            "preciseAuditionDuration": 10.893,
+            "preciseVideoDuration": 10.893
+        }
+    },
+    "author_metadata": {
+        "id": 6936317488431268870,
+        "username": "brookies.haulss",
+        "name": "brooke 🧸⭐️🫐",
+        "signature": "we're all besties 🩷\nJesus saves ✝️\n💌 brookieshaulss@gmail.com",
+        "create_time": 1614987370,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "fypppppppppppppp",
+            "id": 1633131185532933,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "jellycats",
+            "id": 18636691,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "imjustagirl",
+            "id": 251285,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "relatable",
+            "id": 6888,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Tell us about things you find #Relatable"
+        },
+        {
+            "name": "real",
+            "id": 8514,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "girlthings",
+            "id": 318518,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

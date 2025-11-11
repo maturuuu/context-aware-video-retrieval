@@ -1,0 +1,202 @@
+{
+    "video_metadata": {
+        "id": 7529376216667720978,
+        "time_created": "2025-07-21T11:45:16",
+        "author_id": 7347213667102950402,
+        "description": "We couldn’t decide between Wolfgang or Bourbon Street, so we let rock paper scissors choose for us 😭 @johnxnard #iloilobusinesspark #clairealexistiu #IGotTiu #wolfgangsteakhouse #bourbonstreet #iloiloeats #foodieph #foodieiloilo #iloilorestaurants #wheretoeatph #rockpaperscissors ",
+        "hashtags": [
+            "iloilobusinesspark",
+            "clairealexistiu",
+            "igottiu",
+            "wolfgangsteakhouse",
+            "bourbonstreet",
+            "iloiloeats",
+            "foodieph",
+            "foodieiloilo",
+            "iloilorestaurants",
+            "wheretoeatph",
+            "rockpaperscissors"
+        ],
+        "mentions": [
+            "6902365179624834050"
+        ],
+        "music_id": 7198380237963560962,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 9,
+        "sharecount": 2,
+        "commentcount": 1,
+        "playcount": 533,
+        "collectcount": 1,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": null,
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Non-Video Games",
+            "Games",
+            "Entertainment"
+        ],
+        "diversification_id": 10057,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7529376216667720978,
+        "filepath": null,
+        "duration": 7,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -17.2,
+        "volume_peak": 0.45186,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7198380237963560962,
+        "title": "Hinoki Wood",
+        "author_name": "Gia Margaret",
+        "original": false,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 51.947,
+            "preciseShootDuration": 51.947,
+            "preciseAuditionDuration": 51.947,
+            "preciseVideoDuration": 60
+        }
+    },
+    "author_metadata": {
+        "id": 7347213667102950402,
+        "username": "clairealexistiu",
+        "name": "ate babe",
+        "signature": "more than just a home",
+        "create_time": 1710657092,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "iloilobusinesspark",
+            "id": 1665751345898497,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "clairealexistiu",
+            "id": 7359494917666078726,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "igottiu",
+            "id": 58336462,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "wolfgangsteakhouse",
+            "id": 1645396160904193,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "bourbonstreet",
+            "id": 3152740,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "iloiloeats",
+            "id": 7084116647551696922,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "foodieph",
+            "id": 73511420,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "The official hashtag for local food and drink content. Check out their videos and join the #FOODIEPH community"
+        },
+        {
+            "name": "foodieiloilo",
+            "id": 7026180901293785115,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "iloilorestaurants",
+            "id": 7221910585180356614,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "wheretoeatph",
+            "id": 1660774356139009,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "rockpaperscissors",
+            "id": 1507818,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "video_metadata": {
+        "id": 7530353428178930951,
+        "time_created": "2025-07-24T02:57:22",
+        "author_id": 7036462848449856517,
+        "description": "Shop our summer sale. We’ll be waiting.  #wereyouwaitingforthatboxtohitme #summersale #summerclothes #haul #shopping ",
+        "hashtags": [
+            "wereyouwaitingforthatboxtohitme",
+            "summersale",
+            "summerclothes",
+            "haul",
+            "shopping"
+        ],
+        "mentions": null,
+        "music_id": 7530353489562979088,
+        "schedule_time": 0,
+        "location_created": "CA",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 41,
+        "sharecount": 5,
+        "commentcount": 7,
+        "playcount": 3612,
+        "collectcount": 1,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": null,
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Lip-sync",
+            "Lip-sync",
+            "Performance"
+        ],
+        "diversification_id": 10071,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7530353428178930951,
+        "filepath": null,
+        "duration": 6,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -17.2,
+        "volume_peak": 1,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": null,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7530353489562979088,
+        "title": "original sound",
+        "author_name": "Laura Canada",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 6.844,
+            "preciseShootDuration": 6.844,
+            "preciseAuditionDuration": 6.844,
+            "preciseVideoDuration": 6.844
+        }
+    },
+    "author_metadata": {
+        "id": 7036462848449856517,
+        "username": "laura.canada",
+        "name": "Laura Canada",
+        "signature": "Les dernières tendances / The latest fashions  \nwww.laura.ca",
+        "create_time": 1638304400,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "wereyouwaitingforthatboxtohitme",
+            "id": 7483584504901304342,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "summersale",
+            "id": 19230589,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Discover deals in the TikTok Shop Summer Sale!"
+        },
+        {
+            "name": "summerclothes",
+            "id": 775104,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "haul",
+            "id": 81497,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Any excuse for a fashion haul..."
+        },
+        {
+            "name": "shopping",
+            "id": 9593,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

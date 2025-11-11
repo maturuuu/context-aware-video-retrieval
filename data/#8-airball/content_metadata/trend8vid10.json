@@ -1,0 +1,131 @@
+{
+    "video_metadata": {
+        "id": 7508738317454773522,
+        "time_created": "2025-05-26T20:59:40",
+        "author_id": 6795037674728555521,
+        "description": "#fyp #airball ",
+        "hashtags": [
+            "fyp",
+            "airball"
+        ],
+        "mentions": null,
+        "music_id": 7466220526407535403,
+        "schedule_time": 0,
+        "location_created": "TH",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 2006,
+        "sharecount": 85,
+        "commentcount": 11,
+        "playcount": 38700,
+        "collectcount": 88,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": [
+            {
+                "name": "Green Screen",
+                "ID": "1965129838"
+            },
+            {
+                "name": "Green Screen Video",
+                "ID": "1379480308"
+            }
+        ],
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "#holyfvkinairball "
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": null,
+        "diversification_id": null,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7508738317454773522,
+        "filepath": null,
+        "duration": 12,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -18.8,
+        "volume_peak": 0.60954,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7466220526407535403,
+        "title": "ECE Marketing Airball",
+        "author_name": "EC Equine Marketing",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 18.416313,
+            "preciseShootDuration": 18.416313,
+            "preciseAuditionDuration": 18.416313,
+            "preciseVideoDuration": 18.416313
+        }
+    },
+    "author_metadata": {
+        "id": 6795037674728555521,
+        "username": "sophia_hg1",
+        "name": "Sophia",
+        "signature": "",
+        "create_time": 1582064636,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 3,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "airball",
+            "id": 169558,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "video_metadata": {
+        "id": 7469296068874882311,
+        "time_created": "2025-02-09T14:03:37",
+        "author_id": 6579565679120384002,
+        "description": "soafer sarap #foryou #foryoupage #fyp #fypシ #viral #comedy #funny #food #foodtrip #foodie #trend #relate #rockpaperscissors #batobatopick ",
+        "hashtags": [
+            "foryou",
+            "foryoupage",
+            "fyp",
+            "fypシ",
+            "viral",
+            "comedy",
+            "funny",
+            "food",
+            "foodtrip",
+            "foodie",
+            "trend",
+            "relate",
+            "rockpaperscissors",
+            "batobatopick"
+        ],
+        "mentions": null,
+        "music_id": 7446415015793756950,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 8123,
+        "sharecount": 324,
+        "commentcount": 4,
+        "playcount": 39900,
+        "collectcount": 72,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "Mamou",
+                    "Wolfgang "
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": null,
+        "diversification_id": null,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7469296068874882311,
+        "filepath": null,
+        "duration": 8,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -30.5,
+        "volume_peak": 0.10965,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7446415015793756950,
+        "title": "оригинальный звук",
+        "author_name": "Демиан Волков 01",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 9.299563,
+            "preciseShootDuration": 9.299563,
+            "preciseAuditionDuration": 9.299563,
+            "preciseVideoDuration": 9.299563
+        }
+    },
+    "author_metadata": {
+        "id": 6579565679120384002,
+        "username": "inigojap",
+        "name": "Len",
+        "signature": "tiktokerist 🇵🇭",
+        "create_time": 1531925359,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "foryou",
+            "id": 42164,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "foryoupage",
+            "id": 88764338,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "fypシ",
+            "id": 1637342470396934,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "viral",
+            "id": 20884,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "¡descubre las canciones en tendencia! 🔥➡️ https://bit.ly/TendenciasTikTok_LATAM"
+        },
+        {
+            "name": "comedy",
+            "id": 1606334392378370,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "funny",
+            "id": 5424,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "What's so #Funny?"
+        },
+        {
+            "name": "food",
+            "id": 5718,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "foodtrip",
+            "id": 813397,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "foodie",
+            "id": 251048,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Love food? Show us your favorite dishes and recipes."
+        },
+        {
+            "name": "trend",
+            "id": 44895,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "relate",
+            "id": 64917,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "rockpaperscissors",
+            "id": 1507818,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "batobatopick",
+            "id": 1600849406272513,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

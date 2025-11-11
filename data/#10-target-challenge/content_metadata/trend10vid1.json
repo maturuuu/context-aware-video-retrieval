@@ -1,0 +1,142 @@
+{
+    "video_metadata": {
+        "id": 6889452204181163265,
+        "time_created": "2020-10-31T00:33:13",
+        "author_id": 6786945157914477569,
+        "description": "happy anniv 🤍 #fyp #targetchallenge",
+        "hashtags": [
+            "fyp",
+            "targetchallenge"
+        ],
+        "mentions": null,
+        "music_id": 6852528731559299845,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [
+            "snack foods",
+            "favorite challenge",
+            "happy anniv song",
+            "snack",
+            "happy anniv to both of you",
+            "happy anniv banner",
+            "happy anniv cake",
+            "list of snacks",
+            "happy anniv caption",
+            "happy anniv bff"
+        ],
+        "diggcount": 35900,
+        "sharecount": 837,
+        "commentcount": 368,
+        "playcount": 251900,
+        "collectcount": 1624,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "favorite snack",
+                    "something that reminds me of u",
+                    "something you can use",
+                    "something you need to try",
+                    "favorite color",
+                    "something special"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Diary & VLOG",
+            "Daily Life",
+            "Lifestyle"
+        ],
+        "diversification_id": 10014,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 6889452204181163265,
+        "filepath": null,
+        "duration": 59,
+        "height": 960,
+        "width": 540,
+        "ratio": 540,
+        "volume_loudness": null,
+        "volume_peak": null,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 1,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 6852528731559299845,
+        "title": "som original",
+        "author_name": "jovem indie",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 59,
+            "preciseShootDuration": 59,
+            "preciseAuditionDuration": 59,
+            "preciseVideoDuration": 59
+        }
+    },
+    "author_metadata": {
+        "id": 6786945157914477569,
+        "username": "trinahmaee_",
+        "name": "ynah",
+        "signature": "mostly song covers",
+        "create_time": 1580180181,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "targetchallenge",
+            "id": 3128820,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

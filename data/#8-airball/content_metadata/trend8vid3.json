@@ -1,0 +1,137 @@
+{
+    "video_metadata": {
+        "id": 7519102183850151176,
+        "time_created": "2025-06-23T19:16:44",
+        "author_id": 6817723964215788545,
+        "description": "a literal airball 😭 #tennistiktok #tennis #fyp ",
+        "hashtags": [
+            "tennistiktok",
+            "tennis",
+            "fyp"
+        ],
+        "mentions": null,
+        "music_id": 7506439782579440385,
+        "schedule_time": 0,
+        "location_created": "PH",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 23,
+        "sharecount": 1,
+        "commentcount": 4,
+        "playcount": 1478,
+        "collectcount": 2,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "told them i play tennis…",
+                    "them:\n“so you must be really good at it”",
+                    "#holyfknairball"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Traditional Sports",
+            "Sports",
+            "Sport & Outdoor"
+        ],
+        "diversification_id": 10059,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7519102183850151176,
+        "filepath": null,
+        "duration": 13,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -28.6,
+        "volume_peak": 0.20417,
+        "has_original_audio": true,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7506439782579440385,
+        "title": "original sound",
+        "author_name": "maia magoutas",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 18.860374,
+            "preciseShootDuration": 18.860374,
+            "preciseAuditionDuration": 18.860374,
+            "preciseVideoDuration": 18.860374
+        }
+    },
+    "author_metadata": {
+        "id": 6817723964215788545,
+        "username": "sophiaisabel.yt",
+        "name": "Sophia Isabel on YT 🧸",
+        "signature": "21 🦋\nlifestyle, travel, tennis 🎾🎧\n\n@sophiaxisabel on ig 🫶🏻",
+        "create_time": 1587375240,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "tennistiktok",
+            "id": 1635428068609030,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "tennis",
+            "id": 10660,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "It's time to show off what you can do on the court."
+        },
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

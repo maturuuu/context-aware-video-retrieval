@@ -1,0 +1,171 @@
+{
+    "video_metadata": {
+        "id": 7475337556016499973,
+        "time_created": "2025-02-25T20:47:40",
+        "author_id": 6806652749105021958,
+        "description": "When everyone knows my fabourite candy 🍬🍭🩷  #candy #nerdclusters #nerdclustergummies #teacher #teachersoftiktok #fyp #middleschool ",
+        "hashtags": [
+            "candy",
+            "nerdclusters",
+            "nerdclustergummies",
+            "teacher",
+            "teachersoftiktok",
+            "fyp",
+            "middleschool"
+        ],
+        "mentions": null,
+        "music_id": 7121429930117843717,
+        "schedule_time": 0,
+        "location_created": "CA",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 182,
+        "sharecount": 25,
+        "commentcount": 8,
+        "playcount": 3579,
+        "collectcount": 20,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": true,
+        "stitch_enabled": true,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "POV: how to successfully kidnap me 🍭🍬"
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Food Display",
+            "Food & Drink",
+            "Lifestyle"
+        ],
+        "diversification_id": 10039,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7475337556016499973,
+        "filepath": null,
+        "duration": 8,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -28.4,
+        "volume_peak": 0.14289,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7121429930117843717,
+        "title": "original sound",
+        "author_name": "Shadowless",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 10.893,
+            "preciseShootDuration": 10.893,
+            "preciseAuditionDuration": 10.893,
+            "preciseVideoDuration": 10.893
+        }
+    },
+    "author_metadata": {
+        "id": 6806652749105021958,
+        "username": "rousseaus_room",
+        "name": "rousseaus_room",
+        "signature": "",
+        "create_time": 1586207936,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 0,
+        "stitch_setting": 0,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 3,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "candy",
+            "id": 9189,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "nerdclusters",
+            "id": 1677319763987462,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "nerdclustergummies",
+            "id": 7206830602270539818,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "teacher",
+            "id": 21713,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "teachersoftiktok",
+            "id": 1607493519937537,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "Join the #TeachersofTikTok Post Contest and post videos sharing your teaching styles, insights and memorable moments. From June 12th until July 10th, sign up and post for a chance to win up to $5000 in cash! Click link for official contest rules and how to enter: https://vt.tiktok.com/ZMSSP5bCR/"
+        },
+        {
+            "name": "fyp",
+            "id": 229207,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "middleschool",
+            "id": 29859,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}

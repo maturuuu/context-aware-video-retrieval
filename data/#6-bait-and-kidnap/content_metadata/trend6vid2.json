@@ -1,0 +1,144 @@
+{
+    "video_metadata": {
+        "id": 7471042913544195374,
+        "time_created": "2025-02-14T07:02:20",
+        "author_id": 6696582171354907654,
+        "description": "lowk this would work… PLS DONT KIDNAP ME THO #enhypen #engene #kpop #heeseung ",
+        "hashtags": [
+            "enhypen",
+            "engene",
+            "kpop",
+            "heeseung"
+        ],
+        "mentions": null,
+        "music_id": 7121429930117843717,
+        "schedule_time": 0,
+        "location_created": "US",
+        "is_ad": false,
+        "suggested_words": [],
+        "diggcount": 7021,
+        "sharecount": 726,
+        "commentcount": 19,
+        "playcount": 25100,
+        "collectcount": 732,
+        "repostcount": 0,
+        "warn_info": [],
+        "original_item": false,
+        "offical_item": false,
+        "secret": false,
+        "for_friend": false,
+        "digged": false,
+        "item_comment_status": 0,
+        "take_down": 0,
+        "effect_stickers": null,
+        "private_item": false,
+        "duet_enabled": false,
+        "stitch_enabled": false,
+        "stickers_on_item": [
+            {
+                "stickerText": [
+                    "how to kidnap a kpop stan "
+                ],
+                "stickerType": 4
+            }
+        ],
+        "share_enabled": true,
+        "comments": null,
+        "duet_display": 0,
+        "stitch_display": 0,
+        "index_enabled": true,
+        "diversification_labels": [
+            "Toys & Collectables",
+            "Daily Life",
+            "Lifestyle"
+        ],
+        "diversification_id": 10050,
+        "channel_tags": [],
+        "keyword_tags": null,
+        "is_ai_gc": false,
+        "aigc_label_type": null,
+        "ai_gc_description": null
+    },
+    "file_metadata": {
+        "id": 7471042913544195374,
+        "filepath": null,
+        "duration": 7,
+        "height": 1024,
+        "width": 576,
+        "ratio": 540,
+        "volume_loudness": -28.4,
+        "volume_peak": 0.13804,
+        "has_original_audio": false,
+        "enable_audio_caption": true,
+        "no_caption_reason": 3,
+        "is_slide": false
+    },
+    "music_metadata": {
+        "id": 7121429930117843717,
+        "title": "original sound",
+        "author_name": "Shadowless",
+        "original": true,
+        "schedule_search_time": 0,
+        "collected": false,
+        "precise_duration": {
+            "preciseDuration": 10.893,
+            "preciseShootDuration": 10.893,
+            "preciseAuditionDuration": 10.893,
+            "preciseVideoDuration": 10.893
+        }
+    },
+    "author_metadata": {
+        "id": 6696582171354907654,
+        "username": "mynameisadrienne",
+        "name": "adri ౨ৎ",
+        "signature": "20 ˖ ࣪⊹ \nprobably fangirling",
+        "create_time": 1559169711,
+        "verified": false,
+        "ftc": false,
+        "relation": 0,
+        "open_favorite": false,
+        "comment_setting": 0,
+        "duet_setting": 3,
+        "stitch_setting": 3,
+        "private_account": false,
+        "secret": false,
+        "is_ad_virtual": false,
+        "download_setting": 0,
+        "recommend_reason": "",
+        "suggest_account_bind": false
+    },
+    "hashtags_metadata": [
+        {
+            "name": "enhypen",
+            "id": 1678173629381638,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "engene",
+            "id": 13677800,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        },
+        {
+            "name": "kpop",
+            "id": 6985,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": "No matter who you stan, we're here for all things #KPop."
+        },
+        {
+            "name": "heeseung",
+            "id": 1668287732675586,
+            "type": 1,
+            "sub_type": 0,
+            "is_commerce": false,
+            "description": ""
+        }
+    ]
+}
