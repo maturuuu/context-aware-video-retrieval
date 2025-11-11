@@ -142,6 +142,8 @@ env/
 venv/
 venv311/
 .venv311
+meta/
+metaReal/
 ENV/
 env.bak/
 venv.bak/
