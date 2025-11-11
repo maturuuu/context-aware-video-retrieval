@@ -1,0 +1,12 @@
+{
+  "query_id": "trend1vid1",
+  "condition_name": "visual_audio",
+  "context_video_paths": [
+    "media\\trend1vid3.mp4",
+    "media\\trend1vid4.mp4",
+    "media\\trend10vid5.mp4",
+    "media\\trend1vid5.mp4",
+    "media\\trend3vid7.mp4"
+  ],
+  "annotation_text": "This video is part of a popular meme format illustrating the concept of \"free will\" through a chaotic and unexpected action. A man in his kitchen takes a carton of milk from the refrigerator, contemplates it for a moment, and then deliberately drops it onto the floor. The act is nonsensical, meant to humorously convey the idea of making a choice simply because one has the freedom to do so, regardless of the consequences."
+}
