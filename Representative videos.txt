@@ -1,0 +1,129 @@
+Trend 1: vid 10
+Scores:
+trend1vid1: 0.5481
+trend1vid2: 0.4857
+trend1vid3: 0.5318
+trend1vid4: 0.4755
+trend1vid5: 0.5065
+trend1vid6: 0.4903
+trend1vid7: 0.5230
+trend1vid8: 0.4761
+trend1vid9: 0.4790
+trend1vid10: 0.5551
+
+Trend 2: vid 2
+Scores:
+trend2vid1: 0.7313
+trend2vid2: 0.7505
+trend2vid3: 0.6353
+trend2vid4: 0.6913
+trend2vid5: 0.7385
+trend2vid6: 0.7118
+trend2vid7: 0.6916
+trend2vid8: 0.6748
+trend2vid9: 0.0000
+trend2vid10: 0.7313
+
+Trend 3: vid 3
+Scores:
+trend3vid1: 0.5845
+trend3vid2: 0.5828
+trend3vid3: 0.6064
+trend3vid4: 0.6018
+trend3vid5: 0.5411
+trend3vid6: 0.5752
+trend3vid7: 0.5727
+trend3vid8: 0.5857
+trend3vid9: 0.5967
+trend3vid10: 0.0000
+
+Trend 4: vid 2
+Scores:
+trend4vid1: 0.6319
+trend4vid2: 0.6342
+trend4vid3: 0.5958
+trend4vid4: 0.6333
+trend4vid5: 0.6128
+trend4vid6: 0.6314
+trend4vid7: 0.5895
+trend4vid8: 0.6269
+trend4vid9: 0.0000
+trend4vid10: 0.0000
+
+Trend 5: vid 2
+Scores:
+trend5vid1: 0.7787
+trend5vid2: 0.7831
+trend5vid3: 0.7458
+trend5vid4: 0.7792
+trend5vid5: 0.7257
+trend5vid6: 0.7822
+trend5vid7: 0.7732
+trend5vid8: 0.6979
+trend5vid9: 0.7485
+trend5vid10: 0.0000
+
+Trend 6: vid 3
+Scores:
+trend6vid1: 0.6641
+trend6vid2: 0.6956
+trend6vid3: 0.7307
+trend6vid4: 0.6391
+trend6vid5: 0.7060
+trend6vid6: 0.7156
+trend6vid7: 0.6663
+trend6vid8: 0.6664
+trend6vid9: 0.6975
+trend6vid10: 0.7300
+
+Trend 7: vid 7
+Scores:
+trend7vid1: 0.7363
+trend7vid2: 0.7201
+trend7vid3: 0.7404
+trend7vid4: 0.7351
+trend7vid5: 0.7325
+trend7vid6: 0.7536
+trend7vid7: 0.7593
+trend7vid8: 0.6986
+trend7vid9: 0.7356
+trend7vid10: 0.6983
+
+Trend 8: vid 9
+Scores:
+trend8vid1: 0.6408
+trend8vid2: 0.6706
+trend8vid3: 0.5941
+trend8vid4: 0.6265
+trend8vid5: 0.5859
+trend8vid6: 0.6039
+trend8vid7: 0.6201
+trend8vid8: 0.6658
+trend8vid9: 0.6777
+trend8vid10: 0.6724
+
+Trend 9: vid 7
+Scores:
+trend9vid1: 0.7103
+trend9vid2: 0.6663
+trend9vid3: 0.6913
+trend9vid4: 0.6723
+trend9vid5: 0.7110
+trend9vid6: 0.7040
+trend9vid7: 0.7466
+trend9vid8: 0.7047
+trend9vid9: 0.6938
+trend9vid10: 0.7379
+
+Trend 10: vid 5
+Scores:
+trend10vid1: 0.5569
+trend10vid2: 0.6117
+trend10vid3: 0.6060
+trend10vid4: 0.6651
+trend10vid5: 0.6771
+trend10vid6: 0.6654
+trend10vid7: 0.6292
+trend10vid8: 0.6642
+trend10vid9: 0.6351
+trend10vid10: 0.6004
